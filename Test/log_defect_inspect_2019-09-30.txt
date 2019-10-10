@@ -1,0 +1,1788 @@
+[2019-09-30 11:58:25.060062][thread 23508][info] A201 Defect Inspect Logger.
+[2019-09-30 11:58:25.061887][thread 23508][info] Current File: detectBase.cpp Compile Time: Sun Sep 29 09:27:19 2019
+[2019-09-30 11:58:25.062407][thread 23508][info] ========APIFPCBInspector::api_init========
+[2019-09-30 11:58:25.172432][thread 23508][info] Current File: fpcbInspector.cpp Compile Time:Sun Sep 29 14:04:45 2019
+[2019-09-30 11:58:25.173147][thread 23508][info] Current Mode: RELEASE: 0
+[2019-09-30 11:58:46.015026][thread 23508][info] Function_Alg:APIFPCBInspector::api_init		 Return: 0 
+[2019-09-30 11:58:58.736255][thread 23508][info] 开始写入正面信息
+[2019-09-30 11:58:58.737796][thread 23508][info] 信息写入完毕
+[2019-09-30 11:59:08.427049][thread 23508][info] Commom Defects Inspect Alg Start.
+[2019-09-30 11:59:08.427889][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.429283][thread 23508][info] PCS 1/126 Start.
+[2019-09-30 11:59:08.429755][thread 23508][info] PCS 1/126 End.
+[2019-09-30 11:59:08.429943][thread 15292][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.430207][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.431080][thread 23508][info] PCS 2/126 Start.
+[2019-09-30 11:59:08.431509][thread 23508][info] PCS 2/126 End.
+[2019-09-30 11:59:08.431922][thread 15268][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.431931][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.432863][thread 23508][info] PCS 3/126 Start.
+[2019-09-30 11:59:08.433314][thread 23508][info] PCS 3/126 End.
+[2019-09-30 11:59:08.433748][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.436271][thread 23508][info] PCS 4/126 Start.
+[2019-09-30 11:59:08.436733][thread 23508][info] PCS 4/126 End.
+[2019-09-30 11:59:08.437183][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.436908][thread 23004][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.438050][thread 23004][info] 1/2 End inspect. 
+[2019-09-30 11:59:08.437614][thread 23508][info] PCS 5/126 Start.
+[2019-09-30 11:59:08.438917][thread 23508][info] PCS 5/126 End.
+[2019-09-30 11:59:08.438491][thread 23004][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:08.440238][thread 23004][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:08.438957][thread 3860][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.439782][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.441726][thread 23508][info] PCS 6/126 Start.
+[2019-09-30 11:59:08.442171][thread 23508][info] PCS 6/126 End.
+[2019-09-30 11:59:08.442601][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.443092][thread 23508][info] PCS 7/126 Start.
+[2019-09-30 11:59:08.443528][thread 23508][info] PCS 7/126 End.
+[2019-09-30 11:59:08.443942][thread 17344][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.442925][thread 5100][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.444893][thread 5100][info] 1/2 End inspect. 
+[2019-09-30 11:59:08.447232][thread 5100][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:08.448479][thread 5100][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:08.443958][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.449504][thread 23508][info] PCS 8/126 Start.
+[2019-09-30 11:59:08.444481][thread 17344][info] 1/2 End inspect. 
+[2019-09-30 11:59:08.450614][thread 17344][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:08.449942][thread 23508][info] PCS 8/126 End.
+[2019-09-30 11:59:08.451632][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.452155][thread 23508][info] PCS 9/126 Start.
+[2019-09-30 11:59:08.451192][thread 17344][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:08.433916][thread 11392][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.450903][thread 5100][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.452589][thread 23508][info] PCS 9/126 End.
+[2019-09-30 11:59:08.452887][thread 852][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.454073][thread 5100][info] 1/2 End inspect. 
+[2019-09-30 11:59:08.454505][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.455042][thread 852][info] 1/2 End inspect. 
+[2019-09-30 11:59:08.455539][thread 5100][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:08.457445][thread 23508][info] PCS 10/126 Start.
+[2019-09-30 11:59:08.457939][thread 852][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:08.458344][thread 5100][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:08.458779][thread 23508][info] PCS 10/126 End.
+[2019-09-30 11:59:08.458848][thread 15196][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.459265][thread 852][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:08.460138][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.461454][thread 23508][info] PCS 11/126 Start.
+[2019-09-30 11:59:08.461895][thread 23508][info] PCS 11/126 End.
+[2019-09-30 11:59:08.462519][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.462874][thread 23004][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.462938][thread 23508][info] PCS 12/126 Start.
+[2019-09-30 11:59:08.463874][thread 23508][info] PCS 12/126 End.
+[2019-09-30 11:59:08.464326][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.464756][thread 23508][info] PCS 13/126 Start.
+[2019-09-30 11:59:08.465263][thread 23508][info] PCS 13/126 End.
+[2019-09-30 11:59:08.465689][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.464867][thread 8156][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.466827][thread 5100][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.467851][thread 23508][info] PCS 14/126 Start.
+[2019-09-30 11:59:08.469424][thread 5100][info] 1/2 End inspect. 
+[2019-09-30 11:59:08.470310][thread 5100][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:08.470751][thread 5100][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:08.469876][thread 23508][info] PCS 14/126 End.
+[2019-09-30 11:59:08.470817][thread 852][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.471640][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.473107][thread 23508][info] PCS 15/126 Start.
+[2019-09-30 11:59:08.473550][thread 23508][info] PCS 15/126 End.
+[2019-09-30 11:59:08.473806][thread 24984][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.473996][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.474436][thread 24984][info] 1/2 End inspect. 
+[2019-09-30 11:59:08.474864][thread 23508][info] PCS 16/126 Start.
+[2019-09-30 11:59:08.475303][thread 24984][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:08.475739][thread 23508][info] PCS 16/126 End.
+[2019-09-30 11:59:08.478125][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.477670][thread 24984][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:08.476799][thread 5100][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.479508][thread 5100][info] 1/2 End inspect. 
+[2019-09-30 11:59:08.479968][thread 5100][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:08.480424][thread 5100][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:08.478563][thread 23508][info] PCS 17/126 Start.
+[2019-09-30 11:59:08.481348][thread 23508][info] PCS 17/126 End.
+[2019-09-30 11:59:08.481780][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.482235][thread 23508][info] PCS 18/126 Start.
+[2019-09-30 11:59:08.482671][thread 23508][info] PCS 18/126 End.
+[2019-09-30 11:59:08.483120][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.482818][thread 24984][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.482815][thread 5100][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.484424][thread 5100][info] 1/2 End inspect. 
+[2019-09-30 11:59:08.483990][thread 24984][info] 1/2 End inspect. 
+[2019-09-30 11:59:08.483552][thread 23508][info] PCS 19/126 Start.
+[2019-09-30 11:59:08.485743][thread 23508][info] PCS 19/126 End.
+[2019-09-30 11:59:08.485306][thread 24984][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:08.484867][thread 5100][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:08.489927][thread 5100][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:08.488233][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.488728][thread 24984][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:08.486829][thread 17344][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.490844][thread 23508][info] PCS 20/126 Start.
+[2019-09-30 11:59:08.492380][thread 23508][info] PCS 20/126 End.
+[2019-09-30 11:59:08.492812][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.493302][thread 23508][info] PCS 21/126 Start.
+[2019-09-30 11:59:08.493721][thread 23508][info] PCS 21/126 End.
+[2019-09-30 11:59:08.494167][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.494604][thread 23508][info] PCS 22/126 Start.
+[2019-09-30 11:59:08.495056][thread 23508][info] PCS 22/126 End.
+[2019-09-30 11:59:08.494763][thread 24984][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.492825][thread 5100][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.495618][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.498611][thread 23508][info] PCS 23/126 Start.
+[2019-09-30 11:59:08.499118][thread 23508][info] PCS 23/126 End.
+[2019-09-30 11:59:08.499553][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.499997][thread 23508][info] PCS 24/126 Start.
+[2019-09-30 11:59:08.500439][thread 23508][info] PCS 24/126 End.
+[2019-09-30 11:59:08.501060][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.501654][thread 23508][info] PCS 25/126 Start.
+[2019-09-30 11:59:08.502118][thread 23508][info] PCS 25/126 End.
+[2019-09-30 11:59:08.502554][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.502994][thread 23508][info] PCS 26/126 Start.
+[2019-09-30 11:59:08.503434][thread 23508][info] PCS 26/126 End.
+[2019-09-30 11:59:08.503871][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.504310][thread 23508][info] PCS 27/126 Start.
+[2019-09-30 11:59:08.504750][thread 23508][info] PCS 27/126 End.
+[2019-09-30 11:59:08.505190][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.505626][thread 23508][info] PCS 28/126 Start.
+[2019-09-30 11:59:08.506079][thread 23508][info] PCS 28/126 End.
+[2019-09-30 11:59:08.506511][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.508577][thread 23508][info] PCS 29/126 Start.
+[2019-09-30 11:59:08.509044][thread 23508][info] PCS 29/126 End.
+[2019-09-30 11:59:08.510848][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.511329][thread 23508][info] PCS 30/126 Start.
+[2019-09-30 11:59:08.511795][thread 23508][info] PCS 30/126 End.
+[2019-09-30 11:59:08.512487][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.512937][thread 23508][info] PCS 31/126 Start.
+[2019-09-30 11:59:08.513442][thread 23508][info] PCS 31/126 End.
+[2019-09-30 11:59:08.513926][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.514382][thread 23508][info] PCS 32/126 Start.
+[2019-09-30 11:59:08.514901][thread 23508][info] PCS 32/126 End.
+[2019-09-30 11:59:08.515365][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.515889][thread 23508][info] PCS 33/126 Start.
+[2019-09-30 11:59:08.516354][thread 23508][info] PCS 33/126 End.
+[2019-09-30 11:59:08.518334][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.518977][thread 23508][info] PCS 34/126 Start.
+[2019-09-30 11:59:08.519488][thread 23508][info] PCS 34/126 End.
+[2019-09-30 11:59:08.519954][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.520469][thread 23508][info] PCS 35/126 Start.
+[2019-09-30 11:59:08.520974][thread 23508][info] PCS 35/126 End.
+[2019-09-30 11:59:08.521429][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.521886][thread 23508][info] PCS 36/126 Start.
+[2019-09-30 11:59:08.522343][thread 23508][info] PCS 36/126 End.
+[2019-09-30 11:59:08.522814][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.523277][thread 23508][info] PCS 37/126 Start.
+[2019-09-30 11:59:08.523759][thread 23508][info] PCS 37/126 End.
+[2019-09-30 11:59:08.524217][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.524674][thread 23508][info] PCS 38/126 Start.
+[2019-09-30 11:59:08.525170][thread 23508][info] PCS 38/126 End.
+[2019-09-30 11:59:08.525666][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.526133][thread 23508][info] PCS 39/126 Start.
+[2019-09-30 11:59:08.526590][thread 23508][info] PCS 39/126 End.
+[2019-09-30 11:59:08.528672][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.532077][thread 23508][info] PCS 40/126 Start.
+[2019-09-30 11:59:08.532750][thread 23508][info] PCS 40/126 End.
+[2019-09-30 11:59:08.533370][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.533981][thread 23508][info] PCS 41/126 Start.
+[2019-09-30 11:59:08.534446][thread 23508][info] PCS 41/126 End.
+[2019-09-30 11:59:08.534917][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.535371][thread 23508][info] PCS 42/126 Start.
+[2019-09-30 11:59:08.535832][thread 23508][info] PCS 42/126 End.
+[2019-09-30 11:59:08.536292][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.538113][thread 23508][info] PCS 43/126 Start.
+[2019-09-30 11:59:08.538663][thread 23508][info] PCS 43/126 End.
+[2019-09-30 11:59:08.538901][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.539338][thread 23508][info] PCS 44/126 Start.
+[2019-09-30 11:59:08.539870][thread 23508][info] PCS 44/126 End.
+[2019-09-30 11:59:08.540334][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.540819][thread 23508][info] PCS 45/126 Start.
+[2019-09-30 11:59:08.541275][thread 23508][info] PCS 45/126 End.
+[2019-09-30 11:59:08.541801][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.542263][thread 23508][info] PCS 46/126 Start.
+[2019-09-30 11:59:08.542818][thread 23508][info] PCS 46/126 End.
+[2019-09-30 11:59:08.543289][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.543814][thread 23508][info] PCS 47/126 Start.
+[2019-09-30 11:59:08.544303][thread 23508][info] PCS 47/126 End.
+[2019-09-30 11:59:08.544747][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.545185][thread 23508][info] PCS 48/126 Start.
+[2019-09-30 11:59:08.545886][thread 23508][info] PCS 48/126 End.
+[2019-09-30 11:59:08.546329][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.550270][thread 23508][info] PCS 49/126 Start.
+[2019-09-30 11:59:08.550607][thread 23508][info] PCS 49/126 End.
+[2019-09-30 11:59:08.550971][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.552566][thread 23508][info] PCS 50/126 Start.
+[2019-09-30 11:59:08.553549][thread 23508][info] PCS 50/126 End.
+[2019-09-30 11:59:08.554000][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.554438][thread 23508][info] PCS 51/126 Start.
+[2019-09-30 11:59:08.554887][thread 23508][info] PCS 51/126 End.
+[2019-09-30 11:59:08.555311][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.555754][thread 23508][info] PCS 52/126 Start.
+[2019-09-30 11:59:08.556198][thread 23508][info] PCS 52/126 End.
+[2019-09-30 11:59:08.556650][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.557082][thread 23508][info] PCS 53/126 Start.
+[2019-09-30 11:59:08.557522][thread 23508][info] PCS 53/126 End.
+[2019-09-30 11:59:08.557968][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.558408][thread 23508][info] PCS 54/126 Start.
+[2019-09-30 11:59:08.560399][thread 23508][info] PCS 54/126 End.
+[2019-09-30 11:59:08.560857][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.561346][thread 23508][info] PCS 55/126 Start.
+[2019-09-30 11:59:08.564162][thread 23508][info] PCS 55/126 End.
+[2019-09-30 11:59:08.565128][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.565804][thread 23508][info] PCS 56/126 Start.
+[2019-09-30 11:59:08.566382][thread 23508][info] PCS 56/126 End.
+[2019-09-30 11:59:08.566965][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.567455][thread 23508][info] PCS 57/126 Start.
+[2019-09-30 11:59:08.567964][thread 23508][info] PCS 57/126 End.
+[2019-09-30 11:59:08.568428][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.570542][thread 23508][info] PCS 58/126 Start.
+[2019-09-30 11:59:08.571167][thread 23508][info] PCS 58/126 End.
+[2019-09-30 11:59:08.573578][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.574131][thread 23508][info] PCS 59/126 Start.
+[2019-09-30 11:59:08.574648][thread 23508][info] PCS 59/126 End.
+[2019-09-30 11:59:08.575238][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.575724][thread 23508][info] PCS 60/126 Start.
+[2019-09-30 11:59:08.576230][thread 23508][info] PCS 60/126 End.
+[2019-09-30 11:59:08.576744][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.577259][thread 23508][info] PCS 61/126 Start.
+[2019-09-30 11:59:08.577786][thread 23508][info] PCS 61/126 End.
+[2019-09-30 11:59:08.578297][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.580796][thread 23508][info] PCS 62/126 Start.
+[2019-09-30 11:59:08.581514][thread 23508][info] PCS 62/126 End.
+[2019-09-30 11:59:08.582198][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.582826][thread 23508][info] PCS 63/126 Start.
+[2019-09-30 11:59:08.583355][thread 23508][info] PCS 63/126 End.
+[2019-09-30 11:59:08.583881][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.584496][thread 23508][info] PCS 64/126 Start.
+[2019-09-30 11:59:08.585274][thread 23508][info] PCS 64/126 End.
+[2019-09-30 11:59:08.585745][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.586423][thread 23508][info] PCS 65/126 Start.
+[2019-09-30 11:59:08.587376][thread 23508][info] PCS 65/126 End.
+[2019-09-30 11:59:08.588209][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.590101][thread 23508][info] PCS 66/126 Start.
+[2019-09-30 11:59:08.590638][thread 23508][info] PCS 66/126 End.
+[2019-09-30 11:59:08.593464][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.594026][thread 23508][info] PCS 67/126 Start.
+[2019-09-30 11:59:08.594521][thread 23508][info] PCS 67/126 End.
+[2019-09-30 11:59:08.594881][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.596053][thread 23508][info] PCS 68/126 Start.
+[2019-09-30 11:59:08.596582][thread 23508][info] PCS 68/126 End.
+[2019-09-30 11:59:08.597065][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.597690][thread 23508][info] PCS 69/126 Start.
+[2019-09-30 11:59:08.598274][thread 23508][info] PCS 69/126 End.
+[2019-09-30 11:59:08.600009][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.600470][thread 23508][info] PCS 70/126 Start.
+[2019-09-30 11:59:08.600893][thread 23508][info] PCS 70/126 End.
+[2019-09-30 11:59:08.601321][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.601749][thread 23508][info] PCS 71/126 Start.
+[2019-09-30 11:59:08.602175][thread 23508][info] PCS 71/126 End.
+[2019-09-30 11:59:08.602652][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.603215][thread 23508][info] PCS 72/126 Start.
+[2019-09-30 11:59:08.603765][thread 23508][info] PCS 72/126 End.
+[2019-09-30 11:59:08.604203][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.604652][thread 23508][info] PCS 73/126 Start.
+[2019-09-30 11:59:08.605085][thread 23508][info] PCS 73/126 End.
+[2019-09-30 11:59:08.605533][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.605970][thread 23508][info] PCS 74/126 Start.
+[2019-09-30 11:59:08.606406][thread 23508][info] PCS 74/126 End.
+[2019-09-30 11:59:08.606857][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.607310][thread 23508][info] PCS 75/126 Start.
+[2019-09-30 11:59:08.607744][thread 23508][info] PCS 75/126 End.
+[2019-09-30 11:59:08.608175][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.610358][thread 23508][info] PCS 76/126 Start.
+[2019-09-30 11:59:08.610812][thread 23508][info] PCS 76/126 End.
+[2019-09-30 11:59:08.615669][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.616274][thread 23508][info] PCS 77/126 Start.
+[2019-09-30 11:59:08.620145][thread 23508][info] PCS 77/126 End.
+[2019-09-30 11:59:08.620416][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.621116][thread 23508][info] PCS 78/126 Start.
+[2019-09-30 11:59:08.621720][thread 23508][info] PCS 78/126 End.
+[2019-09-30 11:59:08.622284][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.622809][thread 23508][info] PCS 79/126 Start.
+[2019-09-30 11:59:08.623234][thread 23508][info] PCS 79/126 End.
+[2019-09-30 11:59:08.623684][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.624110][thread 23508][info] PCS 80/126 Start.
+[2019-09-30 11:59:08.624587][thread 23508][info] PCS 80/126 End.
+[2019-09-30 11:59:08.625115][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.625583][thread 23508][info] PCS 81/126 Start.
+[2019-09-30 11:59:08.626037][thread 23508][info] PCS 81/126 End.
+[2019-09-30 11:59:08.626596][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.627193][thread 23508][info] PCS 82/126 Start.
+[2019-09-30 11:59:08.629184][thread 23508][info] PCS 82/126 End.
+[2019-09-30 11:59:08.634333][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.635163][thread 23508][info] PCS 83/126 Start.
+[2019-09-30 11:59:08.636043][thread 23508][info] PCS 83/126 End.
+[2019-09-30 11:59:08.636765][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.637282][thread 23508][info] PCS 84/126 Start.
+[2019-09-30 11:59:08.639054][thread 23508][info] PCS 84/126 End.
+[2019-09-30 11:59:08.639706][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.640198][thread 23508][info] PCS 85/126 Start.
+[2019-09-30 11:59:08.640816][thread 23508][info] PCS 85/126 End.
+[2019-09-30 11:59:08.641295][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.642300][thread 23508][info] PCS 86/126 Start.
+[2019-09-30 11:59:08.642811][thread 23508][info] PCS 86/126 End.
+[2019-09-30 11:59:08.643266][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.643777][thread 23508][info] PCS 87/126 Start.
+[2019-09-30 11:59:08.644291][thread 23508][info] PCS 87/126 End.
+[2019-09-30 11:59:08.644813][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.645275][thread 23508][info] PCS 88/126 Start.
+[2019-09-30 11:59:08.646415][thread 23508][info] PCS 88/126 End.
+[2019-09-30 11:59:08.646908][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.649336][thread 23508][info] PCS 89/126 Start.
+[2019-09-30 11:59:08.650271][thread 23508][info] PCS 89/126 End.
+[2019-09-30 11:59:08.651939][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.652495][thread 23508][info] PCS 90/126 Start.
+[2019-09-30 11:59:08.653309][thread 23508][info] PCS 90/126 End.
+[2019-09-30 11:59:08.653857][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.654419][thread 23508][info] PCS 91/126 Start.
+[2019-09-30 11:59:08.654999][thread 23508][info] PCS 91/126 End.
+[2019-09-30 11:59:08.655515][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.656042][thread 23508][info] PCS 92/126 Start.
+[2019-09-30 11:59:08.656617][thread 23508][info] PCS 92/126 End.
+[2019-09-30 11:59:08.657178][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.659787][thread 23508][info] PCS 93/126 Start.
+[2019-09-30 11:59:08.660673][thread 23508][info] PCS 93/126 End.
+[2019-09-30 11:59:08.661485][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.662122][thread 23508][info] PCS 94/126 Start.
+[2019-09-30 11:59:08.662667][thread 23508][info] PCS 94/126 End.
+[2019-09-30 11:59:08.663165][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.663850][thread 23508][info] PCS 95/126 Start.
+[2019-09-30 11:59:08.664516][thread 23508][info] PCS 95/126 End.
+[2019-09-30 11:59:08.665230][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.666135][thread 23508][info] PCS 96/126 Start.
+[2019-09-30 11:59:08.667048][thread 23508][info] PCS 96/126 End.
+[2019-09-30 11:59:08.667611][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.668067][thread 23508][info] PCS 97/126 Start.
+[2019-09-30 11:59:08.669984][thread 23508][info] PCS 97/126 End.
+[2019-09-30 11:59:08.670460][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.672980][thread 23508][info] PCS 98/126 Start.
+[2019-09-30 11:59:08.673500][thread 23508][info] PCS 98/126 End.
+[2019-09-30 11:59:08.674060][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.674539][thread 23508][info] PCS 99/126 Start.
+[2019-09-30 11:59:08.675015][thread 23508][info] PCS 99/126 End.
+[2019-09-30 11:59:08.675469][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.675995][thread 23508][info] PCS 100/126 Start.
+[2019-09-30 11:59:08.676439][thread 23508][info] PCS 100/126 End.
+[2019-09-30 11:59:08.676901][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.677411][thread 23508][info] PCS 101/126 Start.
+[2019-09-30 11:59:08.677934][thread 23508][info] PCS 101/126 End.
+[2019-09-30 11:59:08.680151][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.680817][thread 23508][info] PCS 102/126 Start.
+[2019-09-30 11:59:08.681424][thread 23508][info] PCS 102/126 End.
+[2019-09-30 11:59:08.681915][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.682467][thread 23508][info] PCS 103/126 Start.
+[2019-09-30 11:59:08.682935][thread 23508][info] PCS 103/126 End.
+[2019-09-30 11:59:08.683398][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.683877][thread 23508][info] PCS 104/126 Start.
+[2019-09-30 11:59:08.684389][thread 23508][info] PCS 104/126 End.
+[2019-09-30 11:59:08.684855][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.685461][thread 23508][info] PCS 105/126 Start.
+[2019-09-30 11:59:08.686013][thread 23508][info] PCS 105/126 End.
+[2019-09-30 11:59:08.686470][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.686933][thread 23508][info] PCS 106/126 Start.
+[2019-09-30 11:59:08.687476][thread 23508][info] PCS 106/126 End.
+[2019-09-30 11:59:08.690646][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.691491][thread 23508][info] PCS 107/126 Start.
+[2019-09-30 11:59:08.692853][thread 23508][info] PCS 107/126 End.
+[2019-09-30 11:59:08.693450][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.694147][thread 23508][info] PCS 108/126 Start.
+[2019-09-30 11:59:08.694700][thread 23508][info] PCS 108/126 End.
+[2019-09-30 11:59:08.695330][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.695931][thread 23508][info] PCS 109/126 Start.
+[2019-09-30 11:59:08.696533][thread 23508][info] PCS 109/126 End.
+[2019-09-30 11:59:08.697234][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.697848][thread 23508][info] PCS 110/126 Start.
+[2019-09-30 11:59:08.698747][thread 23508][info] PCS 110/126 End.
+[2019-09-30 11:59:08.701752][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.702569][thread 23508][info] PCS 111/126 Start.
+[2019-09-30 11:59:08.703613][thread 23508][info] PCS 111/126 End.
+[2019-09-30 11:59:08.704754][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.705834][thread 23508][info] PCS 112/126 Start.
+[2019-09-30 11:59:08.706418][thread 23508][info] PCS 112/126 End.
+[2019-09-30 11:59:08.706899][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.707388][thread 23508][info] PCS 113/126 Start.
+[2019-09-30 11:59:08.707844][thread 23508][info] PCS 113/126 End.
+[2019-09-30 11:59:08.708308][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.708790][thread 23508][info] PCS 114/126 Start.
+[2019-09-30 11:59:08.709368][thread 23508][info] PCS 114/126 End.
+[2019-09-30 11:59:08.709803][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.710251][thread 23508][info] PCS 115/126 Start.
+[2019-09-30 11:59:08.712254][thread 23508][info] PCS 115/126 End.
+[2019-09-30 11:59:08.717882][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.718713][thread 23508][info] PCS 116/126 Start.
+[2019-09-30 11:59:08.719493][thread 23508][info] PCS 116/126 End.
+[2019-09-30 11:59:08.720033][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.720496][thread 23508][info] PCS 117/126 Start.
+[2019-09-30 11:59:08.721833][thread 23508][info] PCS 117/126 End.
+[2019-09-30 11:59:08.722301][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.722901][thread 23508][info] PCS 118/126 Start.
+[2019-09-30 11:59:08.723391][thread 23508][info] PCS 118/126 End.
+[2019-09-30 11:59:08.723861][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.724319][thread 23508][info] PCS 119/126 Start.
+[2019-09-30 11:59:08.724933][thread 23508][info] PCS 119/126 End.
+[2019-09-30 11:59:08.725384][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.725847][thread 23508][info] PCS 120/126 Start.
+[2019-09-30 11:59:08.726309][thread 23508][info] PCS 120/126 End.
+[2019-09-30 11:59:08.726864][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.727344][thread 23508][info] PCS 121/126 Start.
+[2019-09-30 11:59:08.727921][thread 23508][info] PCS 121/126 End.
+[2019-09-30 11:59:08.728369][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.728898][thread 23508][info] PCS 122/126 Start.
+[2019-09-30 11:59:08.729381][thread 23508][info] PCS 122/126 End.
+[2019-09-30 11:59:08.730003][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.730486][thread 23508][info] PCS 123/126 Start.
+[2019-09-30 11:59:08.733119][thread 23508][info] PCS 123/126 End.
+[2019-09-30 11:59:08.733935][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.734411][thread 23508][info] PCS 124/126 Start.
+[2019-09-30 11:59:08.734872][thread 23508][info] PCS 124/126 End.
+[2019-09-30 11:59:08.735337][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.736436][thread 23508][info] PCS 125/126 Start.
+[2019-09-30 11:59:08.736942][thread 23508][info] PCS 125/126 End.
+[2019-09-30 11:59:08.737415][thread 23508][info] Mulit Thread Mode.
+[2019-09-30 11:59:08.737924][thread 23508][info] PCS 126/126 Start.
+[2019-09-30 11:59:08.738385][thread 23508][info] PCS 126/126 End.
+[2019-09-30 11:59:08.849808][thread 852][info] 1/2 End inspect. 
+[2019-09-30 11:59:08.849873][thread 3860][info] 1/2 End inspect. 
+[2019-09-30 11:59:08.850321][thread 852][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:08.850887][thread 3860][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:08.851424][thread 852][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:08.852010][thread 3860][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:08.854092][thread 852][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.854308][thread 852][info] 1/2 End inspect. 
+[2019-09-30 11:59:08.854862][thread 852][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:08.855086][thread 3860][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.855462][thread 852][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:08.867533][thread 3860][info] 1/2 End inspect. 
+[2019-09-30 11:59:08.867865][thread 3860][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:08.868469][thread 3860][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:08.870076][thread 3860][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.870523][thread 3860][info] 1/2 End inspect. 
+[2019-09-30 11:59:08.871089][thread 3860][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:08.873807][thread 3860][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:08.875378][thread 852][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.876036][thread 3860][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.885998][thread 852][info] 1/2 End inspect. 
+[2019-09-30 11:59:08.886581][thread 3860][info] 1/2 End inspect. 
+[2019-09-30 11:59:08.887109][thread 852][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:08.887604][thread 3860][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:08.888186][thread 852][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:08.888708][thread 3860][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:08.892001][thread 852][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.892992][thread 3860][info] 1/2 Start inspect. 
+[2019-09-30 11:59:08.896170][thread 852][info] 1/2 End inspect. 
+[2019-09-30 11:59:08.900502][thread 852][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:08.901094][thread 852][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:08.902972][thread 852][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.383652][thread 852][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.383689][thread 24984][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.384256][thread 852][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.384555][thread 15292][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.385007][thread 24984][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.385809][thread 852][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.386715][thread 15292][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.387418][thread 24984][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.389040][thread 15292][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.389656][thread 852][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.389677][thread 15196][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.391650][thread 24984][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.391650][thread 15292][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.391692][thread 15196][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.391931][thread 24984][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.393903][thread 5100][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.395959][thread 15196][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.396665][thread 24984][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.396891][thread 15292][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.397466][thread 5100][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.399017][thread 24984][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.399629][thread 15196][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.399674][thread 15292][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.400162][thread 17344][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.400408][thread 5100][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.401869][thread 15196][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.402576][thread 15292][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.402623][thread 24984][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.403235][thread 17344][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.410618][thread 15292][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.407610][thread 5100][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.409812][thread 24984][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.409893][thread 15268][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.406476][thread 15196][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.410648][thread 17344][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.411314][thread 15292][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.412014][thread 5100][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.412647][thread 24984][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.413290][thread 15268][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.413703][thread 11392][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.416019][thread 15196][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.416044][thread 23004][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.417260][thread 15292][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.417994][thread 5100][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.418318][thread 8156][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.418580][thread 17344][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.418587][thread 24984][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.419298][thread 15268][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.419865][thread 11392][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.421059][thread 23004][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.421569][thread 15196][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.421639][thread 15292][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.422156][thread 5100][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.422660][thread 8156][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.425314][thread 3860][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.425557][thread 15268][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.425590][thread 24984][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.426491][thread 11392][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.427600][thread 23004][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.433259][thread 8156][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.433544][thread 15292][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.433787][thread 3860][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.434535][thread 5100][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.436517][thread 24984][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.438527][thread 11392][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.439550][thread 23004][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.439858][thread 3860][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.440528][thread 8156][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.440548][thread 5100][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.440891][thread 15292][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.441436][thread 24984][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.442106][thread 11392][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.442776][thread 23004][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.443821][thread 8156][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.444331][thread 5100][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.444524][thread 3860][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.447520][thread 15292][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.451702][thread 24984][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.452388][thread 11392][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.453129][thread 23004][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.453819][thread 8156][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.454366][thread 5100][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.455576][thread 15292][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.458633][thread 11392][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.459183][thread 23004][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.459472][thread 24984][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.459756][thread 8156][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.461469][thread 5100][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.462470][thread 15292][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.463510][thread 11392][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.463512][thread 23004][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.465164][thread 15292][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.465596][thread 8156][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.468511][thread 11392][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.471793][thread 15292][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.472464][thread 8156][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.472656][thread 23004][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.473121][thread 11392][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.473835][thread 15292][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.474527][thread 8156][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.475205][thread 23004][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.475841][thread 11392][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.478440][thread 15292][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.480343][thread 8156][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.481203][thread 23004][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.482793][thread 15292][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.483413][thread 11392][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.484915][thread 15292][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.485399][thread 23004][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.485446][thread 8156][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.485753][thread 11392][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.486584][thread 15292][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.490689][thread 11392][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.494067][thread 11392][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.495386][thread 15292][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.496400][thread 11392][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.496698][thread 11392][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.497612][thread 11392][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.498339][thread 11392][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.502361][thread 11392][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.506787][thread 11392][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.507302][thread 11392][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.508333][thread 11392][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.512350][thread 11392][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.513177][thread 11392][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.518097][thread 11392][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.518377][thread 11392][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.520319][thread 11392][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.520992][thread 11392][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.521730][thread 11392][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.522398][thread 11392][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.524304][thread 11392][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.524554][thread 11392][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.525180][thread 11392][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.525808][thread 11392][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.528286][thread 11392][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.529059][thread 11392][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.531658][thread 11392][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.533042][thread 11392][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.536283][thread 11392][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.917195][thread 852][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.917786][thread 852][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.918573][thread 852][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.919219][thread 24984][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.920257][thread 24984][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.920907][thread 24984][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.921234][thread 852][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.923249][thread 24984][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.930845][thread 3860][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.954280][thread 3860][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.955731][thread 3860][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.958192][thread 3860][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.958547][thread 3860][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.959301][thread 3860][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.959948][thread 3860][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.962372][thread 17344][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.964346][thread 17344][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.965283][thread 17344][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.965210][thread 3860][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.968121][thread 17344][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.968578][thread 3860][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.969360][thread 17344][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.970122][thread 3860][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.973164][thread 17344][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.973962][thread 3860][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.975359][thread 17344][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.977091][thread 3860][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.977377][thread 3860][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.977984][thread 3860][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.978090][thread 17344][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.979507][thread 15268][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.980871][thread 3860][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.981848][thread 17344][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.982733][thread 15268][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.984086][thread 17344][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.984903][thread 15268][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.985089][thread 3860][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.985874][thread 17344][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.991064][thread 15268][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.991525][thread 3860][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.993168][thread 15196][info] 1/2 End inspect. 
+[2019-09-30 11:59:09.994046][thread 17344][info] 1/2 Start inspect. 
+[2019-09-30 11:59:09.995952][thread 3860][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.996628][thread 15196][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:09.998061][thread 3860][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:09.998672][thread 15196][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.001035][thread 15196][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.001037][thread 3860][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.003381][thread 3860][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.003976][thread 3860][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.007013][thread 3860][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.009002][thread 3860][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.014016][thread 23004][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.014365][thread 23004][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.017331][thread 3860][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.018447][thread 23004][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.019259][thread 3860][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.020595][thread 3860][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.020984][thread 23004][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.021845][thread 23004][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.022963][thread 3860][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.024921][thread 3860][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.024692][thread 23004][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.025914][thread 3860][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.026314][thread 23004][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.026910][thread 3860][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.028953][thread 23004][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.029198][thread 23004][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.029898][thread 23004][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.031143][thread 23004][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.029950][thread 3860][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.032053][thread 3860][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.032706][thread 3860][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.033147][thread 23004][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.035622][thread 3860][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.040927][thread 3860][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.061825][thread 8156][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.062430][thread 8156][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.063312][thread 8156][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.065852][thread 8156][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.091235][thread 15292][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.091799][thread 15292][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.092085][thread 11392][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.092524][thread 15292][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.095359][thread 11392][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.097387][thread 11392][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.097770][thread 15292][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.098556][thread 15292][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.099155][thread 15292][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.099774][thread 11392][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.099778][thread 15292][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.103808][thread 11392][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.104057][thread 11392][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.104751][thread 15292][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.105443][thread 15292][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.106094][thread 15292][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.104788][thread 11392][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.106817][thread 15292][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.108745][thread 11392][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.108986][thread 11392][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.109590][thread 11392][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.109736][thread 15292][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.110226][thread 11392][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.113373][thread 15292][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.118878][thread 15292][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.119715][thread 11392][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.119798][thread 15292][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.120470][thread 11392][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.124263][thread 11392][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.124707][thread 15292][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.124895][thread 11392][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.127685][thread 11392][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.136379][thread 5100][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.136695][thread 5100][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.137417][thread 5100][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.142651][thread 5100][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.450698][thread 852][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.451229][thread 852][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.451985][thread 852][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.453814][thread 852][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.454063][thread 852][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.454755][thread 852][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.455905][thread 852][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.457804][thread 852][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.459836][thread 852][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.461891][thread 852][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.462576][thread 852][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.464809][thread 852][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.465117][thread 852][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.465946][thread 852][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.466530][thread 852][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.468777][thread 852][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.469039][thread 852][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.469842][thread 852][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.472305][thread 852][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.477882][thread 852][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.478168][thread 852][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.478875][thread 852][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.479561][thread 852][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.483743][thread 852][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.484046][thread 852][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.484835][thread 852][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.485497][thread 852][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.487728][thread 852][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.521856][thread 24984][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.522317][thread 24984][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.523154][thread 24984][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.525629][thread 24984][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.556008][thread 3860][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.556496][thread 3860][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.557251][thread 3860][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.559546][thread 3860][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.570954][thread 17344][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.571277][thread 17344][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.572073][thread 17344][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.577486][thread 17344][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.577751][thread 17344][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.578411][thread 17344][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.579126][thread 17344][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.581485][thread 17344][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.582947][thread 17344][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.583183][thread 17344][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.583797][thread 17344][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.584405][thread 15196][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.585479][thread 17344][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.586985][thread 15196][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.587728][thread 17344][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.590262][thread 15196][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.590913][thread 17344][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.592167][thread 17344][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.593448][thread 15196][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.593703][thread 15196][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.594383][thread 15196][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.594460][thread 17344][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.595056][thread 15196][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.596903][thread 8156][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.598225][thread 17344][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.599807][thread 8156][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.600426][thread 15196][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.600477][thread 17344][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.601179][thread 8156][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.601883][thread 15196][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.602547][thread 17344][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.603924][thread 15196][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.604410][thread 8156][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.605153][thread 15196][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.606403][thread 17344][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.608415][thread 15196][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.620093][thread 11392][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.620635][thread 11392][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.621556][thread 15268][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.621715][thread 11392][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.621868][thread 23004][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.621937][thread 15268][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.623365][thread 23004][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.623988][thread 15268][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.624363][thread 11392][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.624633][thread 23004][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.625895][thread 11392][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.626358][thread 15268][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.627159][thread 11392][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.628363][thread 23004][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.631646][thread 15268][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.635123][thread 11392][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.635960][thread 23004][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.636804][thread 15268][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.638232][thread 23004][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.639323][thread 11392][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.640440][thread 15268][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.641128][thread 23004][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.641761][thread 11392][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.643659][thread 11392][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.644393][thread 11392][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.644312][thread 15268][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.644312][thread 23004][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.645687][thread 15268][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.646310][thread 11392][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.646333][thread 23004][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.647017][thread 15268][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.648338][thread 23004][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.651911][thread 15268][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.654230][thread 23004][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.656278][thread 15268][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.657267][thread 23004][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.695904][thread 15292][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.699981][thread 15292][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.700829][thread 15292][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.701397][thread 5100][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.701753][thread 5100][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.702418][thread 5100][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.705146][thread 5100][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.706771][thread 5100][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.707470][thread 5100][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.707893][thread 15292][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.710524][thread 5100][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.712122][thread 15292][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.712411][thread 15292][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.713070][thread 15292][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.713130][thread 5100][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.714853][thread 5100][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.716111][thread 15292][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.717173][thread 5100][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.717889][thread 15292][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.718584][thread 5100][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.719203][thread 15292][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.721099][thread 5100][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.721163][thread 15292][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.721824][thread 5100][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.723186][thread 5100][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.723841][thread 5100][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:10.724112][thread 15292][info] 1/2 Start inspect. 
+[2019-09-30 11:59:10.727468][thread 15292][info] 1/2 End inspect. 
+[2019-09-30 11:59:10.728213][thread 15292][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:10.734034][thread 15292][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:11.007427][thread 852][info] 1/2 End inspect. 
+[2019-09-30 11:59:11.008008][thread 852][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:11.008838][thread 852][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:11.049481][thread 24984][info] 1/2 End inspect. 
+[2019-09-30 11:59:11.050001][thread 24984][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:11.050797][thread 24984][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:11.057209][thread 17344][info] 1/2 End inspect. 
+[2019-09-30 11:59:11.057549][thread 17344][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:11.058231][thread 17344][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:11.063802][thread 3860][info] 1/2 End inspect. 
+[2019-09-30 11:59:11.064098][thread 3860][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:11.064757][thread 3860][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:11.098026][thread 8156][info] 1/2 End inspect. 
+[2019-09-30 11:59:11.098411][thread 8156][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:11.099014][thread 8156][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:11.105569][thread 15268][info] 1/2 End inspect. 
+[2019-09-30 11:59:11.105789][thread 15268][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:11.106316][thread 15268][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:11.110416][thread 11392][info] 1/2 End inspect. 
+[2019-09-30 11:59:11.110621][thread 11392][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:11.111151][thread 11392][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:11.111335][thread 15196][info] 1/2 End inspect. 
+[2019-09-30 11:59:11.112054][thread 15196][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:11.112507][thread 15196][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:11.114586][thread 23004][info] 1/2 End inspect. 
+[2019-09-30 11:59:11.114779][thread 23004][info] 2/2 Start Defects Collect. 
+[2019-09-30 11:59:11.115249][thread 23004][info] 2/2 End Defects Collect. 
+[2019-09-30 11:59:25.926851][thread 23508][info] 普通算法检测到的缺陷数量：556
+[2019-09-30 12:01:50.874807][thread 23952][info] A201 Defect Inspect Logger.
+[2019-09-30 12:01:50.875621][thread 23952][info] Current File: detectBase.cpp Compile Time: Sun Sep 29 09:27:19 2019
+[2019-09-30 12:01:50.876113][thread 23952][info] ========APIFPCBInspector::api_init========
+[2019-09-30 12:01:50.985011][thread 23952][info] Current File: fpcbInspector.cpp Compile Time:Sun Sep 29 14:04:45 2019
+[2019-09-30 12:01:50.985415][thread 23952][info] Current Mode: RELEASE: 0
+[2019-09-30 12:02:11.118840][thread 23952][info] Function_Alg:APIFPCBInspector::api_init		 Return: 0 
+[2019-09-30 12:02:38.541166][thread 23952][info] 开始写入正面信息
+[2019-09-30 12:02:38.542521][thread 23952][info] 信息写入完毕
+[2019-09-30 12:02:49.198803][thread 23952][info] Commom Defects Inspect Alg Start.
+[2019-09-30 12:02:49.199474][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.217237][thread 23952][info] PCS 1/126 Start.
+[2019-09-30 12:02:49.217747][thread 23952][info] PCS 1/126 End.
+[2019-09-30 12:02:49.218591][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.219230][thread 23952][info] PCS 2/126 Start.
+[2019-09-30 12:02:49.219759][thread 23952][info] PCS 2/126 End.
+[2019-09-30 12:02:49.220291][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.220915][thread 23952][info] PCS 3/126 Start.
+[2019-09-30 12:02:49.221470][thread 23952][info] PCS 3/126 End.
+[2019-09-30 12:02:49.221963][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.222528][thread 23952][info] PCS 4/126 Start.
+[2019-09-30 12:02:49.223039][thread 23952][info] PCS 4/126 End.
+[2019-09-30 12:02:49.223399][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.224740][thread 23952][info] PCS 5/126 Start.
+[2019-09-30 12:02:49.225204][thread 23952][info] PCS 5/126 End.
+[2019-09-30 12:02:49.225661][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.227645][thread 23952][info] PCS 6/126 Start.
+[2019-09-30 12:02:49.230369][thread 23952][info] PCS 6/126 End.
+[2019-09-30 12:02:49.230894][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.231470][thread 23952][info] PCS 7/126 Start.
+[2019-09-30 12:02:49.231950][thread 23952][info] PCS 7/126 End.
+[2019-09-30 12:02:49.232450][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.232975][thread 23952][info] PCS 8/126 Start.
+[2019-09-30 12:02:49.233613][thread 23952][info] PCS 8/126 End.
+[2019-09-30 12:02:49.234172][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.234843][thread 23952][info] PCS 9/126 Start.
+[2019-09-30 12:02:49.235366][thread 23952][info] PCS 9/126 End.
+[2019-09-30 12:02:49.235887][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.238163][thread 23952][info] PCS 10/126 Start.
+[2019-09-30 12:02:49.238650][thread 23952][info] PCS 10/126 End.
+[2019-09-30 12:02:49.239108][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.239584][thread 23952][info] PCS 11/126 Start.
+[2019-09-30 12:02:49.240036][thread 23952][info] PCS 11/126 End.
+[2019-09-30 12:02:49.240508][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.240950][thread 23952][info] PCS 12/126 Start.
+[2019-09-30 12:02:49.241496][thread 23952][info] PCS 12/126 End.
+[2019-09-30 12:02:49.241966][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.242476][thread 23952][info] PCS 13/126 Start.
+[2019-09-30 12:02:49.242936][thread 23952][info] PCS 13/126 End.
+[2019-09-30 12:02:49.243530][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.244068][thread 23952][info] PCS 14/126 Start.
+[2019-09-30 12:02:49.244516][thread 23952][info] PCS 14/126 End.
+[2019-09-30 12:02:49.245063][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.245713][thread 23952][info] PCS 15/126 Start.
+[2019-09-30 12:02:49.246271][thread 23952][info] PCS 15/126 End.
+[2019-09-30 12:02:49.246801][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.249181][thread 23952][info] PCS 16/126 Start.
+[2019-09-30 12:02:49.249766][thread 23952][info] PCS 16/126 End.
+[2019-09-30 12:02:49.250848][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.251368][thread 23952][info] PCS 17/126 Start.
+[2019-09-30 12:02:49.251873][thread 23952][info] PCS 17/126 End.
+[2019-09-30 12:02:49.253098][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.253626][thread 23952][info] PCS 18/126 Start.
+[2019-09-30 12:02:49.254135][thread 23952][info] PCS 18/126 End.
+[2019-09-30 12:02:49.254576][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.255033][thread 23952][info] PCS 19/126 Start.
+[2019-09-30 12:02:49.255490][thread 23952][info] PCS 19/126 End.
+[2019-09-30 12:02:49.255948][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.256406][thread 23952][info] PCS 20/126 Start.
+[2019-09-30 12:02:49.256861][thread 23952][info] PCS 20/126 End.
+[2019-09-30 12:02:49.257390][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.259496][thread 23952][info] PCS 21/126 Start.
+[2019-09-30 12:02:49.260173][thread 23952][info] PCS 21/126 End.
+[2019-09-30 12:02:49.260703][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.261222][thread 23952][info] PCS 22/126 Start.
+[2019-09-30 12:02:49.261798][thread 23952][info] PCS 22/126 End.
+[2019-09-30 12:02:49.262762][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.263256][thread 23952][info] PCS 23/126 Start.
+[2019-09-30 12:02:49.263728][thread 23952][info] PCS 23/126 End.
+[2019-09-30 12:02:49.264183][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.264670][thread 23952][info] PCS 24/126 Start.
+[2019-09-30 12:02:49.265106][thread 23952][info] PCS 24/126 End.
+[2019-09-30 12:02:49.265557][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.266014][thread 23952][info] PCS 25/126 Start.
+[2019-09-30 12:02:49.266488][thread 23952][info] PCS 25/126 End.
+[2019-09-30 12:02:49.266933][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.267405][thread 23952][info] PCS 26/126 Start.
+[2019-09-30 12:02:49.267857][thread 23952][info] PCS 26/126 End.
+[2019-09-30 12:02:49.269910][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.270414][thread 23952][info] PCS 27/126 Start.
+[2019-09-30 12:02:49.271561][thread 23952][info] PCS 27/126 End.
+[2019-09-30 12:02:49.271672][thread 1348][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.271673][thread 6388][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.271673][thread 13044][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.271674][thread 21988][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.271675][thread 2976][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.271681][thread 4192][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.271681][thread 16276][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.271683][thread 23592][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.271683][thread 16340][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.271693][thread 24216][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.271693][thread 4144][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.272079][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.272548][thread 1348][info] 1/2 End inspect. 
+[2019-09-30 12:02:49.273001][thread 6388][info] 1/2 End inspect. 
+[2019-09-30 12:02:49.273921][thread 21988][info] 1/2 End inspect. 
+[2019-09-30 12:02:49.274426][thread 2976][info] 1/2 End inspect. 
+[2019-09-30 12:02:49.275942][thread 23592][info] 1/2 End inspect. 
+[2019-09-30 12:02:49.277990][thread 23952][info] PCS 28/126 Start.
+[2019-09-30 12:02:49.283430][thread 23952][info] PCS 28/126 End.
+[2019-09-30 12:02:49.281202][thread 6388][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:49.281680][thread 21988][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:49.282166][thread 2976][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:49.282637][thread 23592][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:49.280725][thread 1348][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:49.284077][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.284557][thread 6388][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:49.285052][thread 21988][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:49.285523][thread 2976][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:49.285992][thread 23592][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:49.286627][thread 1348][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:49.287075][thread 23952][info] PCS 29/126 Start.
+[2019-09-30 12:02:49.288855][thread 6388][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.289844][thread 21988][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.289846][thread 2976][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.291843][thread 23592][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.292855][thread 23952][info] PCS 29/126 End.
+[2019-09-30 12:02:49.292855][thread 1348][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.296101][thread 1348][info] 1/2 End inspect. 
+[2019-09-30 12:02:49.295071][thread 23592][info] 1/2 End inspect. 
+[2019-09-30 12:02:49.295532][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.297717][thread 23952][info] PCS 30/126 Start.
+[2019-09-30 12:02:49.296633][thread 1348][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:49.297205][thread 23592][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:49.293790][thread 21988][info] 1/2 End inspect. 
+[2019-09-30 12:02:49.298232][thread 23952][info] PCS 30/126 End.
+[2019-09-30 12:02:49.302966][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.301746][thread 23592][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:49.302507][thread 21988][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:49.298680][thread 1348][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:49.303459][thread 23952][info] PCS 31/126 Start.
+[2019-09-30 12:02:49.304447][thread 21988][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:49.305473][thread 23952][info] PCS 31/126 End.
+[2019-09-30 12:02:49.305833][thread 23592][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.306634][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.306796][thread 1348][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.307118][thread 23592][info] 1/2 End inspect. 
+[2019-09-30 12:02:49.307646][thread 23952][info] PCS 32/126 Start.
+[2019-09-30 12:02:49.307797][thread 21988][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.308176][thread 1348][info] 1/2 End inspect. 
+[2019-09-30 12:02:49.308666][thread 23592][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:49.309132][thread 23952][info] PCS 32/126 End.
+[2019-09-30 12:02:49.312027][thread 1348][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:49.314345][thread 23592][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:49.314905][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.315573][thread 1348][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:49.316662][thread 23952][info] PCS 33/126 Start.
+[2019-09-30 12:02:49.317775][thread 23592][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.318159][thread 23952][info] PCS 33/126 End.
+[2019-09-30 12:02:49.318770][thread 1348][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.319076][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.320093][thread 23952][info] PCS 34/126 Start.
+[2019-09-30 12:02:49.320541][thread 23952][info] PCS 34/126 End.
+[2019-09-30 12:02:49.322259][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.322730][thread 23952][info] PCS 35/126 Start.
+[2019-09-30 12:02:49.323211][thread 23952][info] PCS 35/126 End.
+[2019-09-30 12:02:49.323688][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.324190][thread 23952][info] PCS 36/126 Start.
+[2019-09-30 12:02:49.324624][thread 23952][info] PCS 36/126 End.
+[2019-09-30 12:02:49.325092][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.325565][thread 23952][info] PCS 37/126 Start.
+[2019-09-30 12:02:49.326003][thread 23952][info] PCS 37/126 End.
+[2019-09-30 12:02:49.326457][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.327026][thread 23952][info] PCS 38/126 Start.
+[2019-09-30 12:02:49.327615][thread 23952][info] PCS 38/126 End.
+[2019-09-30 12:02:49.328144][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.328611][thread 23952][info] PCS 39/126 Start.
+[2019-09-30 12:02:49.329383][thread 23952][info] PCS 39/126 End.
+[2019-09-30 12:02:49.329938][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.330646][thread 23952][info] PCS 40/126 Start.
+[2019-09-30 12:02:49.333482][thread 23952][info] PCS 40/126 End.
+[2019-09-30 12:02:49.334181][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.335143][thread 23952][info] PCS 41/126 Start.
+[2019-09-30 12:02:49.335625][thread 23952][info] PCS 41/126 End.
+[2019-09-30 12:02:49.336254][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.336796][thread 23952][info] PCS 42/126 Start.
+[2019-09-30 12:02:49.337389][thread 23952][info] PCS 42/126 End.
+[2019-09-30 12:02:49.337972][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.338546][thread 23952][info] PCS 43/126 Start.
+[2019-09-30 12:02:49.339085][thread 23952][info] PCS 43/126 End.
+[2019-09-30 12:02:49.339547][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.340024][thread 23952][info] PCS 44/126 Start.
+[2019-09-30 12:02:49.340460][thread 23952][info] PCS 44/126 End.
+[2019-09-30 12:02:49.340951][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.341416][thread 23952][info] PCS 45/126 Start.
+[2019-09-30 12:02:49.343299][thread 23952][info] PCS 45/126 End.
+[2019-09-30 12:02:49.343814][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.344385][thread 23952][info] PCS 46/126 Start.
+[2019-09-30 12:02:49.345100][thread 23952][info] PCS 46/126 End.
+[2019-09-30 12:02:49.345598][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.347362][thread 23952][info] PCS 47/126 Start.
+[2019-09-30 12:02:49.347916][thread 23952][info] PCS 47/126 End.
+[2019-09-30 12:02:49.348693][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.349223][thread 23952][info] PCS 48/126 Start.
+[2019-09-30 12:02:49.349671][thread 23952][info] PCS 48/126 End.
+[2019-09-30 12:02:49.350122][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.350577][thread 23952][info] PCS 49/126 Start.
+[2019-09-30 12:02:49.351083][thread 23952][info] PCS 49/126 End.
+[2019-09-30 12:02:49.351555][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.353469][thread 23952][info] PCS 50/126 Start.
+[2019-09-30 12:02:49.354154][thread 23952][info] PCS 50/126 End.
+[2019-09-30 12:02:49.356192][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.356696][thread 23952][info] PCS 51/126 Start.
+[2019-09-30 12:02:49.357182][thread 23952][info] PCS 51/126 End.
+[2019-09-30 12:02:49.357638][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.358162][thread 23952][info] PCS 52/126 Start.
+[2019-09-30 12:02:49.358674][thread 23952][info] PCS 52/126 End.
+[2019-09-30 12:02:49.359207][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.359735][thread 23952][info] PCS 53/126 Start.
+[2019-09-30 12:02:49.360355][thread 23952][info] PCS 53/126 End.
+[2019-09-30 12:02:49.360857][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.361518][thread 23952][info] PCS 54/126 Start.
+[2019-09-30 12:02:49.363463][thread 23952][info] PCS 54/126 End.
+[2019-09-30 12:02:49.364010][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.364514][thread 23952][info] PCS 55/126 Start.
+[2019-09-30 12:02:49.365029][thread 23952][info] PCS 55/126 End.
+[2019-09-30 12:02:49.365541][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.366045][thread 23952][info] PCS 56/126 Start.
+[2019-09-30 12:02:49.366522][thread 23952][info] PCS 56/126 End.
+[2019-09-30 12:02:49.367047][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.367522][thread 23952][info] PCS 57/126 Start.
+[2019-09-30 12:02:49.367990][thread 23952][info] PCS 57/126 End.
+[2019-09-30 12:02:49.368433][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.368915][thread 23952][info] PCS 58/126 Start.
+[2019-09-30 12:02:49.369378][thread 23952][info] PCS 58/126 End.
+[2019-09-30 12:02:49.369851][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.370362][thread 23952][info] PCS 59/126 Start.
+[2019-09-30 12:02:49.370822][thread 23952][info] PCS 59/126 End.
+[2019-09-30 12:02:49.371260][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.373343][thread 23952][info] PCS 60/126 Start.
+[2019-09-30 12:02:49.373843][thread 23952][info] PCS 60/126 End.
+[2019-09-30 12:02:49.379193][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.379663][thread 23952][info] PCS 61/126 Start.
+[2019-09-30 12:02:49.381216][thread 23952][info] PCS 61/126 End.
+[2019-09-30 12:02:49.382502][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.383067][thread 23952][info] PCS 62/126 Start.
+[2019-09-30 12:02:49.383562][thread 23952][info] PCS 62/126 End.
+[2019-09-30 12:02:49.384072][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.384620][thread 23952][info] PCS 63/126 Start.
+[2019-09-30 12:02:49.385080][thread 23952][info] PCS 63/126 End.
+[2019-09-30 12:02:49.385533][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.385988][thread 23952][info] PCS 64/126 Start.
+[2019-09-30 12:02:49.386537][thread 23952][info] PCS 64/126 End.
+[2019-09-30 12:02:49.387035][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.387490][thread 23952][info] PCS 65/126 Start.
+[2019-09-30 12:02:49.387943][thread 23952][info] PCS 65/126 End.
+[2019-09-30 12:02:49.388383][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.388830][thread 23952][info] PCS 66/126 Start.
+[2019-09-30 12:02:49.389285][thread 23952][info] PCS 66/126 End.
+[2019-09-30 12:02:49.389767][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.390225][thread 23952][info] PCS 67/126 Start.
+[2019-09-30 12:02:49.392272][thread 23952][info] PCS 67/126 End.
+[2019-09-30 12:02:49.393064][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.396957][thread 23952][info] PCS 68/126 Start.
+[2019-09-30 12:02:49.397443][thread 23952][info] PCS 68/126 End.
+[2019-09-30 12:02:49.398126][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.398709][thread 23952][info] PCS 69/126 Start.
+[2019-09-30 12:02:49.399118][thread 23952][info] PCS 69/126 End.
+[2019-09-30 12:02:49.399572][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.400024][thread 23952][info] PCS 70/126 Start.
+[2019-09-30 12:02:49.400476][thread 23952][info] PCS 70/126 End.
+[2019-09-30 12:02:49.402024][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.402507][thread 23952][info] PCS 71/126 Start.
+[2019-09-30 12:02:49.403000][thread 23952][info] PCS 71/126 End.
+[2019-09-30 12:02:49.403487][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.403996][thread 23952][info] PCS 72/126 Start.
+[2019-09-30 12:02:49.404473][thread 23952][info] PCS 72/126 End.
+[2019-09-30 12:02:49.404946][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.405431][thread 23952][info] PCS 73/126 Start.
+[2019-09-30 12:02:49.405926][thread 23952][info] PCS 73/126 End.
+[2019-09-30 12:02:49.406387][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.406861][thread 23952][info] PCS 74/126 Start.
+[2019-09-30 12:02:49.407337][thread 23952][info] PCS 74/126 End.
+[2019-09-30 12:02:49.408135][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.408732][thread 23952][info] PCS 75/126 Start.
+[2019-09-30 12:02:49.409210][thread 23952][info] PCS 75/126 End.
+[2019-09-30 12:02:49.409703][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.410188][thread 23952][info] PCS 76/126 Start.
+[2019-09-30 12:02:49.412795][thread 23952][info] PCS 76/126 End.
+[2019-09-30 12:02:49.414665][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.415240][thread 23952][info] PCS 77/126 Start.
+[2019-09-30 12:02:49.415832][thread 23952][info] PCS 77/126 End.
+[2019-09-30 12:02:49.416321][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.416783][thread 23952][info] PCS 78/126 Start.
+[2019-09-30 12:02:49.417238][thread 23952][info] PCS 78/126 End.
+[2019-09-30 12:02:49.417698][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.418143][thread 23952][info] PCS 79/126 Start.
+[2019-09-30 12:02:49.418604][thread 23952][info] PCS 79/126 End.
+[2019-09-30 12:02:49.419099][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.419569][thread 23952][info] PCS 80/126 Start.
+[2019-09-30 12:02:49.420023][thread 23952][info] PCS 80/126 End.
+[2019-09-30 12:02:49.420471][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.420931][thread 23952][info] PCS 81/126 Start.
+[2019-09-30 12:02:49.421437][thread 23952][info] PCS 81/126 End.
+[2019-09-30 12:02:49.423770][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.424293][thread 23952][info] PCS 82/126 Start.
+[2019-09-30 12:02:49.425148][thread 23952][info] PCS 82/126 End.
+[2019-09-30 12:02:49.425707][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.426165][thread 23952][info] PCS 83/126 Start.
+[2019-09-30 12:02:49.426641][thread 23952][info] PCS 83/126 End.
+[2019-09-30 12:02:49.427207][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.427775][thread 23952][info] PCS 84/126 Start.
+[2019-09-30 12:02:49.428369][thread 23952][info] PCS 84/126 End.
+[2019-09-30 12:02:49.429201][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.429734][thread 23952][info] PCS 85/126 Start.
+[2019-09-30 12:02:49.430186][thread 23952][info] PCS 85/126 End.
+[2019-09-30 12:02:49.430658][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.431111][thread 23952][info] PCS 86/126 Start.
+[2019-09-30 12:02:49.431573][thread 23952][info] PCS 86/126 End.
+[2019-09-30 12:02:49.432023][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.432500][thread 23952][info] PCS 87/126 Start.
+[2019-09-30 12:02:49.434564][thread 23952][info] PCS 87/126 End.
+[2019-09-30 12:02:49.435626][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.436109][thread 23952][info] PCS 88/126 Start.
+[2019-09-30 12:02:49.436563][thread 23952][info] PCS 88/126 End.
+[2019-09-30 12:02:49.437002][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.437448][thread 23952][info] PCS 89/126 Start.
+[2019-09-30 12:02:49.437921][thread 23952][info] PCS 89/126 End.
+[2019-09-30 12:02:49.438359][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.438824][thread 23952][info] PCS 90/126 Start.
+[2019-09-30 12:02:49.439298][thread 23952][info] PCS 90/126 End.
+[2019-09-30 12:02:49.439734][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.440212][thread 23952][info] PCS 91/126 Start.
+[2019-09-30 12:02:49.440860][thread 23952][info] PCS 91/126 End.
+[2019-09-30 12:02:49.441546][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.441990][thread 23952][info] PCS 92/126 Start.
+[2019-09-30 12:02:49.442430][thread 23952][info] PCS 92/126 End.
+[2019-09-30 12:02:49.444538][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.445072][thread 23952][info] PCS 93/126 Start.
+[2019-09-30 12:02:49.445579][thread 23952][info] PCS 93/126 End.
+[2019-09-30 12:02:49.446048][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.446521][thread 23952][info] PCS 94/126 Start.
+[2019-09-30 12:02:49.446973][thread 23952][info] PCS 94/126 End.
+[2019-09-30 12:02:49.447409][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.447903][thread 23952][info] PCS 95/126 Start.
+[2019-09-30 12:02:49.448350][thread 23952][info] PCS 95/126 End.
+[2019-09-30 12:02:49.448811][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.449256][thread 23952][info] PCS 96/126 Start.
+[2019-09-30 12:02:49.449702][thread 23952][info] PCS 96/126 End.
+[2019-09-30 12:02:49.450137][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.450584][thread 23952][info] PCS 97/126 Start.
+[2019-09-30 12:02:49.451032][thread 23952][info] PCS 97/126 End.
+[2019-09-30 12:02:49.451472][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.451909][thread 23952][info] PCS 98/126 Start.
+[2019-09-30 12:02:49.452347][thread 23952][info] PCS 98/126 End.
+[2019-09-30 12:02:49.454437][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.454910][thread 23952][info] PCS 99/126 Start.
+[2019-09-30 12:02:49.456308][thread 23952][info] PCS 99/126 End.
+[2019-09-30 12:02:49.456788][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.457246][thread 23952][info] PCS 100/126 Start.
+[2019-09-30 12:02:49.457727][thread 23952][info] PCS 100/126 End.
+[2019-09-30 12:02:49.458161][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.458604][thread 23952][info] PCS 101/126 Start.
+[2019-09-30 12:02:49.459068][thread 23952][info] PCS 101/126 End.
+[2019-09-30 12:02:49.459547][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.459991][thread 23952][info] PCS 102/126 Start.
+[2019-09-30 12:02:49.460462][thread 23952][info] PCS 102/126 End.
+[2019-09-30 12:02:49.461434][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.462039][thread 23952][info] PCS 103/126 Start.
+[2019-09-30 12:02:49.463879][thread 23952][info] PCS 103/126 End.
+[2019-09-30 12:02:49.464333][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.464903][thread 23952][info] PCS 104/126 Start.
+[2019-09-30 12:02:49.465383][thread 23952][info] PCS 104/126 End.
+[2019-09-30 12:02:49.465822][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.466302][thread 23952][info] PCS 105/126 Start.
+[2019-09-30 12:02:49.466840][thread 23952][info] PCS 105/126 End.
+[2019-09-30 12:02:49.467293][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.467752][thread 23952][info] PCS 106/126 Start.
+[2019-09-30 12:02:49.468192][thread 23952][info] PCS 106/126 End.
+[2019-09-30 12:02:49.468643][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.469081][thread 23952][info] PCS 107/126 Start.
+[2019-09-30 12:02:49.469659][thread 23952][info] PCS 107/126 End.
+[2019-09-30 12:02:49.470518][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.470965][thread 23952][info] PCS 108/126 Start.
+[2019-09-30 12:02:49.471404][thread 23952][info] PCS 108/126 End.
+[2019-09-30 12:02:49.471852][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.472303][thread 23952][info] PCS 109/126 Start.
+[2019-09-30 12:02:49.474493][thread 23952][info] PCS 109/126 End.
+[2019-09-30 12:02:49.474993][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.477724][thread 23952][info] PCS 110/126 Start.
+[2019-09-30 12:02:49.478237][thread 23952][info] PCS 110/126 End.
+[2019-09-30 12:02:49.478741][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.479194][thread 23952][info] PCS 111/126 Start.
+[2019-09-30 12:02:49.479636][thread 23952][info] PCS 111/126 End.
+[2019-09-30 12:02:49.480078][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.480531][thread 23952][info] PCS 112/126 Start.
+[2019-09-30 12:02:49.481009][thread 23952][info] PCS 112/126 End.
+[2019-09-30 12:02:49.481528][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.482061][thread 23952][info] PCS 113/126 Start.
+[2019-09-30 12:02:49.482598][thread 23952][info] PCS 113/126 End.
+[2019-09-30 12:02:49.483164][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.485303][thread 23952][info] PCS 114/126 Start.
+[2019-09-30 12:02:49.485981][thread 23952][info] PCS 114/126 End.
+[2019-09-30 12:02:49.486504][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.486968][thread 23952][info] PCS 115/126 Start.
+[2019-09-30 12:02:49.487479][thread 23952][info] PCS 115/126 End.
+[2019-09-30 12:02:49.488268][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.488756][thread 23952][info] PCS 116/126 Start.
+[2019-09-30 12:02:49.489205][thread 23952][info] PCS 116/126 End.
+[2019-09-30 12:02:49.489702][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.490146][thread 23952][info] PCS 117/126 Start.
+[2019-09-30 12:02:49.490620][thread 23952][info] PCS 117/126 End.
+[2019-09-30 12:02:49.491060][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.491515][thread 23952][info] PCS 118/126 Start.
+[2019-09-30 12:02:49.491975][thread 23952][info] PCS 118/126 End.
+[2019-09-30 12:02:49.492431][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.492869][thread 23952][info] PCS 119/126 Start.
+[2019-09-30 12:02:49.493365][thread 23952][info] PCS 119/126 End.
+[2019-09-30 12:02:49.497740][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.498459][thread 23952][info] PCS 120/126 Start.
+[2019-09-30 12:02:49.499151][thread 23952][info] PCS 120/126 End.
+[2019-09-30 12:02:49.499742][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.500203][thread 23952][info] PCS 121/126 Start.
+[2019-09-30 12:02:49.500681][thread 23952][info] PCS 121/126 End.
+[2019-09-30 12:02:49.501148][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.501630][thread 23952][info] PCS 122/126 Start.
+[2019-09-30 12:02:49.502198][thread 23952][info] PCS 122/126 End.
+[2019-09-30 12:02:49.502848][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.503358][thread 23952][info] PCS 123/126 Start.
+[2019-09-30 12:02:49.503965][thread 23952][info] PCS 123/126 End.
+[2019-09-30 12:02:49.505860][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.506701][thread 23952][info] PCS 124/126 Start.
+[2019-09-30 12:02:49.507257][thread 23952][info] PCS 124/126 End.
+[2019-09-30 12:02:49.507875][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.508377][thread 23952][info] PCS 125/126 Start.
+[2019-09-30 12:02:49.508963][thread 23952][info] PCS 125/126 End.
+[2019-09-30 12:02:49.509455][thread 23952][info] Mulit Thread Mode.
+[2019-09-30 12:02:49.509946][thread 23952][info] PCS 126/126 Start.
+[2019-09-30 12:02:49.510525][thread 23952][info] PCS 126/126 End.
+[2019-09-30 12:02:49.889147][thread 16276][info] 1/2 End inspect. 
+[2019-09-30 12:02:49.890367][thread 2976][info] 1/2 End inspect. 
+[2019-09-30 12:02:49.891054][thread 16276][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:49.896910][thread 16276][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:49.891164][thread 2976][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:49.900602][thread 16276][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.902517][thread 16276][info] 1/2 End inspect. 
+[2019-09-30 12:02:49.903815][thread 16276][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:49.902168][thread 2976][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:49.918133][thread 2976][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.908464][thread 16276][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:49.924504][thread 2976][info] 1/2 End inspect. 
+[2019-09-30 12:02:49.927734][thread 2976][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:49.928297][thread 16276][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.931125][thread 2976][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:49.931373][thread 16276][info] 1/2 End inspect. 
+[2019-09-30 12:02:49.933942][thread 16276][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:49.934279][thread 2976][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.938337][thread 16276][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:49.939600][thread 2976][info] 1/2 End inspect. 
+[2019-09-30 12:02:49.945112][thread 2976][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:49.945241][thread 16276][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.945367][thread 2976][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:49.951600][thread 16276][info] 1/2 End inspect. 
+[2019-09-30 12:02:49.953721][thread 16276][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:49.954757][thread 16276][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:49.955220][thread 2976][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.957235][thread 16276][info] 1/2 Start inspect. 
+[2019-09-30 12:02:49.958909][thread 2976][info] 1/2 End inspect. 
+[2019-09-30 12:02:49.964417][thread 2976][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:49.969803][thread 2976][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:49.973184][thread 2976][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.143991][thread 23592][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.144586][thread 23592][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.144811][thread 23592][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.146757][thread 13044][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.147089][thread 13044][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.147684][thread 23592][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.147818][thread 13044][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.148094][thread 4192][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.149820][thread 4192][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.150436][thread 4192][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.150675][thread 13044][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.150817][thread 4144][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.151791][thread 13044][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.152325][thread 1348][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.152483][thread 4144][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.152773][thread 4192][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.152883][thread 24216][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.155409][thread 13044][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.159760][thread 13044][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.157531][thread 4144][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.158614][thread 6388][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.158970][thread 24216][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.156824][thread 1348][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.166638][thread 1348][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.162570][thread 6388][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.162655][thread 13044][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.163609][thread 24216][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.163670][thread 4144][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.160127][thread 4192][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.168640][thread 1348][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.168937][thread 21988][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.170517][thread 6388][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.170649][thread 16340][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.171645][thread 13044][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.172767][thread 4144][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.173466][thread 4192][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.173618][thread 24216][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.173958][thread 16276][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.174467][thread 1348][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.176842][thread 21988][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.178469][thread 16340][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.186811][thread 16340][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.179462][thread 13044][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.179739][thread 2976][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.180333][thread 4144][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.181288][thread 4192][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.181959][thread 24216][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.182676][thread 16276][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.183573][thread 1348][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.196948][thread 1348][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.178620][thread 6388][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.189590][thread 16340][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.190670][thread 13044][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.191323][thread 2976][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.192125][thread 4144][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.193232][thread 24216][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.194046][thread 16276][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.194556][thread 4192][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.184397][thread 21988][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.199546][thread 1348][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.200299][thread 2976][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.201460][thread 24216][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.201541][thread 13044][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.202539][thread 4144][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.203541][thread 16276][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.204008][thread 1348][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.204542][thread 21988][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.209536][thread 2976][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.210560][thread 24216][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.217938][thread 13044][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.218673][thread 4144][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.219407][thread 16276][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.220072][thread 1348][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.220673][thread 21988][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.221301][thread 2976][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.223630][thread 13044][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.224356][thread 4144][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.225128][thread 16276][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.225807][thread 1348][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.226607][thread 21988][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.234013][thread 2976][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.234761][thread 13044][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.235484][thread 4144][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.236993][thread 16276][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.238400][thread 21988][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.239457][thread 1348][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.241127][thread 2976][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.243444][thread 13044][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.244457][thread 4144][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.245515][thread 21988][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.245519][thread 16276][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.247438][thread 2976][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.249260][thread 4144][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.255177][thread 16276][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.257302][thread 21988][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.258560][thread 2976][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.259355][thread 4144][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.260107][thread 16276][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.260914][thread 21988][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.263666][thread 2976][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.264627][thread 4144][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.265266][thread 16276][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.265933][thread 21988][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.267041][thread 2976][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.269377][thread 4144][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.270365][thread 16276][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.271362][thread 21988][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.271577][thread 4144][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.272366][thread 2976][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.272400][thread 16276][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.274074][thread 23592][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.285141][thread 4144][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.293995][thread 4144][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.292950][thread 23592][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.291129][thread 16276][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.297334][thread 4144][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.302005][thread 23592][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.304167][thread 16276][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.310274][thread 23592][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.319312][thread 23592][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.319770][thread 16276][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.320458][thread 23592][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.324669][thread 16276][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.325632][thread 23592][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.326922][thread 16276][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.333075][thread 16276][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.333201][thread 23592][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.337269][thread 16276][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.338213][thread 23592][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.339407][thread 16276][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.340391][thread 23592][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.341135][thread 16276][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.342182][thread 23592][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.343009][thread 16276][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.345186][thread 23592][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.347195][thread 16276][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.352888][thread 16276][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.350204][thread 23592][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.356300][thread 16276][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.357425][thread 23592][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.358050][thread 16276][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.360451][thread 23592][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.364142][thread 16276][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.365175][thread 23592][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.387428][thread 16340][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.388045][thread 16340][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.389820][thread 16340][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.392039][thread 16340][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.414253][thread 4192][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.415395][thread 4192][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.416325][thread 4192][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.418965][thread 4192][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.419236][thread 4192][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.420360][thread 4192][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.420969][thread 4192][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.422992][thread 4192][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.425155][thread 4192][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.430731][thread 4192][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.432484][thread 4192][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.434951][thread 4192][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.435462][thread 4192][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.436457][thread 4192][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.437278][thread 4192][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.440010][thread 4192][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.442438][thread 4192][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.443575][thread 4192][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.444466][thread 4192][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.447050][thread 4192][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.447594][thread 4192][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.448979][thread 4192][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.449828][thread 4192][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.450515][thread 6388][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.454944][thread 4192][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.455507][thread 6388][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.460317][thread 6388][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.460114][thread 24216][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.459379][thread 4192][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.462871][thread 6388][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.465739][thread 24216][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.466622][thread 4192][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.468281][thread 24216][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.469506][thread 4192][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.471847][thread 4192][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.471847][thread 24216][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.497248][thread 1348][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.498007][thread 1348][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.499067][thread 1348][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.501786][thread 1348][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.502129][thread 1348][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.506915][thread 1348][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.510295][thread 1348][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.513483][thread 1348][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.517026][thread 13044][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.517537][thread 13044][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.520952][thread 13044][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.522460][thread 2976][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.523095][thread 2976][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.522700][thread 13044][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.527135][thread 2976][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.528241][thread 13044][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.533351][thread 13044][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.533674][thread 2976][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.534432][thread 13044][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.535280][thread 2976][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.537044][thread 2976][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.537644][thread 13044][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.537783][thread 2976][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.538491][thread 13044][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.539971][thread 13044][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.540648][thread 2976][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.550122][thread 2976][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.543782][thread 13044][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.542430][thread 21988][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.551005][thread 2976][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.555165][thread 21988][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.555618][thread 13044][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.556035][thread 2976][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.556925][thread 21988][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.560829][thread 2976][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.561609][thread 21988][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.571569][thread 1348][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.571996][thread 1348][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.573017][thread 1348][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.579119][thread 1348][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.580131][thread 1348][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.581482][thread 1348][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.582570][thread 1348][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.584572][thread 1348][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.586210][thread 4144][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.586435][thread 4144][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.586570][thread 1348][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.587282][thread 4144][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.590838][thread 1348][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.593514][thread 4144][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.615330][thread 4144][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.608511][thread 1348][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.601335][thread 23592][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.616910][thread 4144][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.626461][thread 4144][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.623325][thread 23592][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.622430][thread 1348][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.629401][thread 23592][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.629418][thread 4144][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.630583][thread 1348][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.632801][thread 4144][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.633402][thread 23592][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.634269][thread 1348][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.642800][thread 1348][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.638919][thread 23592][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.645079][thread 23592][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.644378][thread 1348][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.637883][thread 4144][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.649021][thread 23592][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.650766][thread 4144][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.653405][thread 23592][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.654355][thread 4144][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.670124][thread 16276][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.670784][thread 16276][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.671909][thread 16276][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.674327][thread 16276][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.674642][thread 16276][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.675732][thread 16276][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.676903][thread 16276][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.680303][thread 16276][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.682504][thread 16340][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.685495][thread 16340][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.686147][thread 16276][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.686537][thread 16340][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.687257][thread 16276][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.688761][thread 16276][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.689742][thread 16340][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.698630][thread 16340][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.692244][thread 16276][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.702393][thread 16340][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.705355][thread 16276][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.707348][thread 16276][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.706531][thread 16340][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.708318][thread 16276][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.711580][thread 16340][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.712768][thread 6388][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.713316][thread 16340][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.722212][thread 16340][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.720078][thread 6388][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.722958][thread 16340][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.714401][thread 16276][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.723626][thread 6388][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.726164][thread 16340][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.730474][thread 16276][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.734054][thread 4192][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.734658][thread 16276][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.735601][thread 4192][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.740675][thread 4192][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.735931][thread 24216][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.736144][thread 6388][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.735906][thread 16276][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.743177][thread 4192][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.745874][thread 24216][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.749118][thread 16276][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.752601][thread 24216][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.752865][thread 16276][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.756330][thread 16276][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.757098][thread 24216][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.757149][thread 16276][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.758775][thread 24216][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.768288][thread 24216][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.769561][thread 16276][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.769870][thread 24216][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.770890][thread 16276][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.776296][thread 16276][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.777020][thread 24216][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.781385][thread 24216][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.779631][thread 16276][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.784633][thread 24216][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.787026][thread 16276][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.789417][thread 24216][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.790560][thread 16276][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.790931][thread 13044][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.792385][thread 16276][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.793001][thread 24216][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.799388][thread 24216][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.798177][thread 16276][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.796571][thread 13044][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.803298][thread 24216][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.805958][thread 16276][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.806557][thread 2976][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.808524][thread 13044][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.809427][thread 24216][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.814775][thread 2976][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.816986][thread 13044][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.821496][thread 2976][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.821914][thread 24216][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.824886][thread 2976][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.825153][thread 2976][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.825879][thread 2976][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.827413][thread 2976][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.834881][thread 2976][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.838987][thread 2976][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.839454][thread 2976][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.840607][thread 2976][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.842860][thread 2976][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.844599][thread 2976][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.845706][thread 2976][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.850381][thread 2976][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.850598][thread 21988][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.852185][thread 21988][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.852811][thread 2976][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.855843][thread 21988][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.856609][thread 2976][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.860802][thread 21988][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.861061][thread 2976][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.861644][thread 21988][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.865611][thread 2976][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.866965][thread 21988][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.868809][thread 21988][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.870641][thread 2976][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.871771][thread 21988][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.871882][thread 2976][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.874029][thread 2976][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.878378][thread 2976][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.884859][thread 23592][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.889349][thread 23592][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.889731][thread 2976][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.890691][thread 23592][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.896730][thread 23592][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.909551][thread 1348][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.910163][thread 1348][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.914516][thread 4144][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.922318][thread 1348][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.924128][thread 4144][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.927629][thread 1348][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.928171][thread 4144][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.929172][thread 1348][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.934140][thread 1348][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.934614][thread 4144][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.937019][thread 4144][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.954611][thread 4144][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.956123][thread 4144][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.934997][thread 1348][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.985450][thread 6388][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.985725][thread 6388][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.985457][thread 4144][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.986434][thread 6388][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:50.986472][thread 1348][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.987360][thread 4144][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.990455][thread 6388][info] 1/2 Start inspect. 
+[2019-09-30 12:02:50.998887][thread 6388][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.993794][thread 4144][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:50.992911][thread 1348][info] 1/2 End inspect. 
+[2019-09-30 12:02:50.999663][thread 6388][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:51.000291][thread 4144][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:51.000985][thread 1348][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:51.004726][thread 6388][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:51.006392][thread 1348][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:51.007409][thread 4144][info] 1/2 Start inspect. 
+[2019-09-30 12:02:51.008874][thread 4144][info] 1/2 End inspect. 
+[2019-09-30 12:02:51.009569][thread 4144][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:51.010228][thread 4144][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:51.026866][thread 16340][info] 1/2 End inspect. 
+[2019-09-30 12:02:51.028162][thread 16340][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:51.031595][thread 16340][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:51.032146][thread 4192][info] 1/2 End inspect. 
+[2019-09-30 12:02:51.034665][thread 4192][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:51.037228][thread 4192][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:51.050856][thread 13044][info] 1/2 End inspect. 
+[2019-09-30 12:02:51.051013][thread 16276][info] 1/2 End inspect. 
+[2019-09-30 12:02:51.051159][thread 13044][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:51.051969][thread 16276][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:51.054999][thread 13044][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:51.056725][thread 16276][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:51.072079][thread 24216][info] 1/2 End inspect. 
+[2019-09-30 12:02:51.072385][thread 24216][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:51.073108][thread 24216][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:51.078615][thread 2976][info] 1/2 End inspect. 
+[2019-09-30 12:02:51.078894][thread 2976][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:51.079787][thread 2976][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:51.088262][thread 21988][info] 1/2 End inspect. 
+[2019-09-30 12:02:51.088470][thread 21988][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:51.088976][thread 21988][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:51.089574][thread 23592][info] 1/2 End inspect. 
+[2019-09-30 12:02:51.092135][thread 23592][info] 2/2 Start Defects Collect. 
+[2019-09-30 12:02:51.092592][thread 23592][info] 2/2 End Defects Collect. 
+[2019-09-30 12:02:51.176692][thread 23952][info] 普通算法检测到的缺陷数量：556
+[2019-09-30 12:03:05.490554][thread 23952][info] ========APIFPCBInspector::api_load_space========
+[2019-09-30 12:03:05.511673][thread 23952][info] Function_Alg: APIFPCBInspector::api_load_space Return: 0 
+[2019-09-30 12:03:05.512527][thread 23952][info] ========APIFPCBInspector::api_init========
+[2019-09-30 12:03:31.482062][thread 23952][info] Function_Alg:APIFPCBInspector::api_init		 Return: 0 

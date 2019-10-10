@@ -1,0 +1,62 @@
+[2019-09-09 12:01:57.144723][thread 10428][info] A201 Defect Inspect Logger.
+[2019-09-09 12:01:57.147011][thread 10428][info] Current File: detectBase.cpp Compile Time: Sat Sep  7 11:43:48 2019
+[2019-09-09 12:01:57.147192][thread 10428][info] ========APIFPCBInspector::api_init========
+[2019-09-09 12:01:57.188217][thread 10428][info] Current File: fpcbInspector.cpp Compile Time:Sat Sep  7 17:28:42 2019
+[2019-09-09 12:01:57.189226][thread 10428][info] Current Mode: RELEASE: 1
+[2019-09-09 12:02:01.301497][thread 10428][error] Function_Alg:APIFPCBInspector::api_init Return: -1 
+[2019-09-09 12:03:23.633167][thread 12924][info] A201 Defect Inspect Logger.
+[2019-09-09 12:03:23.633789][thread 12924][info] Current File: detectBase.cpp Compile Time: Sat Sep  7 11:43:48 2019
+[2019-09-09 12:03:23.634323][thread 12924][info] ========APIFPCBInspector::api_init========
+[2019-09-09 12:03:23.685259][thread 12924][info] Current File: fpcbInspector.cpp Compile Time:Sat Sep  7 17:28:42 2019
+[2019-09-09 12:03:23.685802][thread 12924][info] Current Mode: RELEASE: 1
+[2019-09-09 12:03:28.136606][thread 12924][error] Function_Alg:APIFPCBInspector::api_init Return: -1 
+[2019-09-09 13:38:44.277727][thread 10860][info] A201 Defect Inspect Logger.
+[2019-09-09 13:38:44.278737][thread 10860][info] Current File: detectBase.cpp Compile Time: Sat Sep  7 11:43:48 2019
+[2019-09-09 13:38:44.279245][thread 10860][info] ========APIFPCBInspector::api_init========
+[2019-09-09 13:38:44.321694][thread 10860][info] Current File: fpcbInspector.cpp Compile Time:Sat Sep  7 17:28:42 2019
+[2019-09-09 13:38:44.322490][thread 10860][info] Current Mode: RELEASE: 1
+[2019-09-09 13:38:48.064952][thread 10860][error] Function_Alg:APIFPCBInspector::api_init Return: -1 
+[2019-09-09 13:40:52.026560][thread 1968][info] A201 Defect Inspect Logger.
+[2019-09-09 13:40:52.027475][thread 1968][info] Current File: detectBase.cpp Compile Time: Sat Sep  7 11:43:48 2019
+[2019-09-09 13:40:52.027750][thread 1968][info] ========APIFPCBInspector::api_init========
+[2019-09-09 13:40:52.068780][thread 1968][info] Current File: fpcbInspector.cpp Compile Time:Sat Sep  7 17:28:42 2019
+[2019-09-09 13:40:52.069320][thread 1968][info] Current Mode: RELEASE: 1
+[2019-09-09 13:41:12.006524][thread 1968][info] Function_Alg:APIFPCBInspector::api_init		 Return: 0 
+[2019-09-09 13:42:42.443768][thread 1968][info] ========APIFPCBInspector::api_learn========
+[2019-09-09 13:42:42.444531][thread 1968][info] ========Inspector::learn========
+[2019-09-09 13:42:42.444993][thread 1968][info] 1 输入检查 2 图像定位分割 3 参数训练/整理 4 参数保存 
+[2019-09-09 13:42:42.445290][thread 1968][info] ********1/4 输入检查 (0/2)********
+[2019-09-09 13:42:42.445517][thread 1968][info] ********2/4 图像定位分割 (0/2)********
+[2019-09-09 13:42:45.557033][thread 1968][info] *********3/4 参数训练/整理 (0/2)********
+[2019-09-09 13:42:45.557419][thread 1968][info] 3.1 参数训练
+[2019-09-09 13:42:47.052846][thread 1968][info] 3.2 参数加载
+[2019-09-09 13:42:47.253444][thread 1968][info] 参数加载完毕
+[2019-09-09 13:42:47.254344][thread 1968][info] ========参数学习算法完毕 (0/2)========
+[2019-09-09 13:42:47.285926][thread 1968][info] Function_Alg:APIFPCBInspector::api_learn Return: 0 
+[2019-09-09 13:43:37.280647][thread 1968][info] ========APIFPCBInspector::api_learn========
+[2019-09-09 13:43:37.286210][thread 1968][info] ========Inspector::learn========
+[2019-09-09 13:43:37.286923][thread 1968][info] 1 输入检查 2 图像定位分割 3 参数训练/整理 4 参数保存 
+[2019-09-09 13:43:37.287476][thread 1968][info] ********1/4 输入检查 (1/2)********
+[2019-09-09 13:43:37.288051][thread 1968][info] ********2/4 图像定位分割 (1/2)********
+[2019-09-09 13:43:39.369429][thread 1968][info] *********3/4 参数训练/整理 (1/2)********
+[2019-09-09 13:43:39.370137][thread 1968][info] 3.1 参数训练
+[2019-09-09 13:43:40.321888][thread 1968][info] 3.2 参数加载
+[2019-09-09 13:43:40.528171][thread 1968][info] 参数加载完毕
+[2019-09-09 13:43:40.528880][thread 1968][info] 3.3 直方图数据整理
+[2019-09-09 13:43:41.184033][thread 1968][info] 1 焊盘（Pad）直方图数据整理
+[2019-09-09 13:43:41.184785][thread 1968][info] 1 焊盘（Pad）直方图数据整理完毕
+[2019-09-09 13:43:41.185839][thread 1968][info] 2 钢片（Steel）直方图数据整理
+[2019-09-09 13:43:41.186241][thread 1968][info] 2 钢片（Steel）直方图数据整理完毕
+[2019-09-09 13:43:41.186578][thread 1968][info] 3 黒封（Opacity）直方图数据整理
+[2019-09-09 13:43:41.187785][thread 1968][info] 3 黒封（Opacity）直方图数据整理完毕
+[2019-09-09 13:43:41.188237][thread 1968][info] 4 孔洞（Hole）直方图数据整理
+[2019-09-09 13:43:41.188691][thread 1968][info] 4 孔洞（Hole）直方图数据整理完毕
+[2019-09-09 13:43:41.189133][thread 1968][info] 5 冲切（Carve）直方图数据整理
+[2019-09-09 13:43:41.189591][thread 1968][info] 5 冲切（Carve）直方图数据整理完毕
+[2019-09-09 13:43:41.190029][thread 1968][info] 6 透明包封（Transparency）直方图数据整理（暂时屏蔽）
+[2019-09-09 13:43:41.190471][thread 1968][info] 6 透明包封（Transparency）直方图数据整理完毕（暂时屏蔽）
+[2019-09-09 13:43:41.190926][thread 1968][info] 直方图数据整理完毕
+[2019-09-09 13:43:41.191371][thread 1968][info] *********4/4 参数保存 (1/2)********
+[2019-09-09 13:43:41.209416][thread 1968][info] 参数保存完毕
+[2019-09-09 13:43:41.214888][thread 1968][info] ========参数学习算法完毕 (1/2)========
+[2019-09-09 13:43:41.245682][thread 1968][info] Function_Alg:APIFPCBInspector::api_learn Return: 0 

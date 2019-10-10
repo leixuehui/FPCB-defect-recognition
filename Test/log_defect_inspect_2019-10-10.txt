@@ -1,0 +1,611 @@
+[2019-10-10 10:15:09.357689][thread 10596][info] A201 Defect Inspect Logger.
+[2019-10-10 10:15:09.361270][thread 10596][info] Current File: detectbase.cpp Compile Time: Tue Oct  8 11:48:04 2019
+[2019-10-10 10:15:09.361946][thread 10596][info] ========APIFPCBInspector::api_init========
+[2019-10-10 10:15:09.704296][thread 10596][info] Current File: fpcbinspector.cpp Compile Time:Tue Oct  8 18:00:42 2019
+[2019-10-10 10:15:09.705202][thread 10596][info] Current Mode: DEBUG
+[2019-10-10 10:15:47.428688][thread 10596][info] Function_Alg:APIFPCBInspector::api_init		 Return: 0 
+[2019-10-10 10:22:50.552369][thread 5028][info] A201 Defect Inspect Logger.
+[2019-10-10 10:22:50.625980][thread 5028][info] Current File: detectbase.cpp Compile Time: Tue Oct  8 11:48:04 2019
+[2019-10-10 10:22:50.627626][thread 5028][info] ========APIFPCBInspector::api_init========
+[2019-10-10 10:22:50.929287][thread 5028][info] Current File: fpcbinspector.cpp Compile Time:Tue Oct  8 18:00:42 2019
+[2019-10-10 10:22:50.930347][thread 5028][info] Current Mode: DEBUG
+[2019-10-10 10:23:19.559267][thread 5028][info] Function_Alg:APIFPCBInspector::api_init		 Return: 0 
+[2019-10-10 10:23:57.598983][thread 5028][info] ========APIFPCBInspector::api_learn========
+[2019-10-10 10:23:57.600599][thread 5028][info] ========Inspector::learn========
+[2019-10-10 10:23:57.601500][thread 5028][info] 1 输入检查 2 图像定位分割 3 参数训练/整理 4 参数保存 
+[2019-10-10 10:23:57.602386][thread 5028][info] ********1/4 输入检查 (0/3)********
+[2019-10-10 10:23:57.603411][thread 5028][info] ********2/4 图像定位分割 (0/3)********
+[2019-10-10 10:24:17.958864][thread 5028][info] *********3/4 参数训练/整理 (0/3)********
+[2019-10-10 10:24:17.960023][thread 5028][info] 3.1 参数训练
+[2019-10-10 10:24:22.058816][thread 5028][info] 3.2 参数加载
+[2019-10-10 10:24:23.040884][thread 5028][info] 参数加载完毕
+[2019-10-10 10:24:23.041888][thread 5028][info] ========参数学习算法完毕 (0/3)========
+[2019-10-10 10:24:23.162828][thread 5028][info] Function_Alg:APIFPCBInspector::api_learn Return: 0 
+[2019-10-10 10:24:23.169759][thread 5028][info] ========APIFPCBInspector::api_learn========
+[2019-10-10 10:24:23.170373][thread 5028][info] ========Inspector::learn========
+[2019-10-10 10:24:23.171027][thread 5028][info] 1 输入检查 2 图像定位分割 3 参数训练/整理 4 参数保存 
+[2019-10-10 10:24:23.172396][thread 5028][info] ********1/4 输入检查 (1/3)********
+[2019-10-10 10:24:23.174817][thread 5028][info] ********2/4 图像定位分割 (1/3)********
+[2019-10-10 10:24:47.161972][thread 5028][info] *********3/4 参数训练/整理 (1/3)********
+[2019-10-10 10:24:47.173590][thread 5028][info] 3.1 参数训练
+[2019-10-10 10:24:51.283167][thread 5028][info] 3.2 参数加载
+[2019-10-10 10:24:55.033141][thread 5028][info] 参数加载完毕
+[2019-10-10 10:24:55.035076][thread 5028][info] ========参数学习算法完毕 (1/3)========
+[2019-10-10 10:24:56.196588][thread 5028][info] Function_Alg:APIFPCBInspector::api_learn Return: 0 
+[2019-10-10 10:24:56.241839][thread 5028][info] ========APIFPCBInspector::api_learn========
+[2019-10-10 10:24:56.242997][thread 5028][info] ========Inspector::learn========
+[2019-10-10 10:24:56.244813][thread 5028][info] 1 输入检查 2 图像定位分割 3 参数训练/整理 4 参数保存 
+[2019-10-10 10:24:56.246929][thread 5028][info] ********1/4 输入检查 (2/3)********
+[2019-10-10 10:24:56.248341][thread 5028][info] ********2/4 图像定位分割 (2/3)********
+[2019-10-10 10:25:06.443864][thread 5028][info] *********3/4 参数训练/整理 (2/3)********
+[2019-10-10 10:25:06.447426][thread 5028][info] 3.1 参数训练
+[2019-10-10 10:25:07.318425][thread 5028][info] 3.2 参数加载
+[2019-10-10 10:25:07.884395][thread 5028][info] 参数加载完毕
+[2019-10-10 10:25:10.467742][thread 5028][info] 训练数据整理
+[2019-10-10 10:25:10.468775][thread 5028][info] 简单训练数据整理
+[2019-10-10 10:25:10.470289][thread 5028][info] 简单训练数据整理完毕
+[2019-10-10 10:25:10.471105][thread 5028][info] 复杂训练数据整理
+[2019-10-10 10:25:10.472286][thread 5028][info] 复杂训练数据整理完毕
+[2019-10-10 10:25:10.473864][thread 5028][info] 训练数据整理完毕
+[2019-10-10 10:25:10.482615][thread 5028][info] *********4/4 参数保存 (2/3)********
+[2019-10-10 10:25:10.551520][thread 5028][info] 参数保存完毕
+[2019-10-10 10:25:10.552542][thread 5028][info] ========参数学习算法完毕 (2/3)========
+[2019-10-10 10:25:11.416182][thread 5028][info] Function_Alg:APIFPCBInspector::api_learn Return: 0 
+[2019-10-10 10:25:11.460524][thread 5028][info] 开始写入正面信息
+[2019-10-10 10:25:11.485795][thread 5028][info] 信息写入完毕
+[2019-10-10 10:25:11.556702][thread 5028][info] 开始写入正面信息
+[2019-10-10 10:25:11.568011][thread 5028][info] 信息写入完毕
+[2019-10-10 10:25:12.016486][thread 5028][info] ========APIFPCBInspector::api_load_space========
+[2019-10-10 10:25:12.018017][thread 5028][info] Function_Alg: APIFPCBInspector::api_load_space Return: 0 
+[2019-10-10 10:25:12.019008][thread 5028][info] ========APIFPCBInspector::api_process========
+[2019-10-10 10:25:12.174728][thread 5028][info] ========Inspector::process========
+[2019-10-10 10:25:12.175427][thread 5028][info] 1 输入检查 2 图像定位分割 3 缺陷检测 4 缺陷数据打包 5 缺陷图像整理
+[2019-10-10 10:25:12.177034][thread 5028][info] ********1/5 输入检查(1 / 3)*******
+[2019-10-10 10:25:12.316964][thread 5028][info] ********2/5 图像定位分割 (1 / 3)*******
+[2019-10-10 10:25:44.288490][thread 5028][info] ********3/5 缺陷检测 (1 / 3)*******
+[2019-10-10 10:25:44.361250][thread 5028][info] Commom Defects Inspect Alg Start.
+[2019-10-10 10:25:44.362231][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.363608][thread 5028][info] PCS 1/126 Start.
+[2019-10-10 10:25:44.378909][thread 5028][info] PCS 1/126 End.
+[2019-10-10 10:25:44.379366][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.380530][thread 5028][info] PCS 2/126 Start.
+[2019-10-10 10:25:44.386136][thread 5028][info] PCS 2/126 End.
+[2019-10-10 10:25:44.387084][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.388096][thread 8116][info] 1/2 Start inspect. 
+[2019-10-10 10:25:44.388709][thread 5028][info] PCS 3/126 Start.
+[2019-10-10 10:25:44.390739][thread 15336][info] 1/2 Start inspect. 
+[2019-10-10 10:25:44.395506][thread 5028][info] PCS 3/126 End.
+[2019-10-10 10:25:44.397108][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.397927][thread 5028][info] PCS 4/126 Start.
+[2019-10-10 10:25:44.398100][thread 2152][info] 1/2 Start inspect. 
+[2019-10-10 10:25:44.399804][thread 5028][info] PCS 4/126 End.
+[2019-10-10 10:25:44.402112][thread 11812][info] 1/2 Start inspect. 
+[2019-10-10 10:25:44.405352][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.406906][thread 11812][info] 1/2 End inspect. 
+[2019-10-10 10:25:44.407890][thread 5028][info] PCS 5/126 Start.
+[2019-10-10 10:25:44.409070][thread 11812][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:44.411563][thread 5028][info] PCS 5/126 End.
+[2019-10-10 10:25:44.412752][thread 11812][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:44.414175][thread 5264][info] 1/2 Start inspect. 
+[2019-10-10 10:25:44.416031][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.419097][thread 5028][info] PCS 6/126 Start.
+[2019-10-10 10:25:44.422394][thread 5028][info] PCS 6/126 End.
+[2019-10-10 10:25:44.424060][thread 1376][info] 1/2 Start inspect. 
+[2019-10-10 10:25:44.427089][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.428155][thread 1376][info] 1/2 End inspect. 
+[2019-10-10 10:25:44.429171][thread 5028][info] PCS 7/126 Start.
+[2019-10-10 10:25:44.430217][thread 1376][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:44.431485][thread 5028][info] PCS 7/126 End.
+[2019-10-10 10:25:44.432299][thread 6736][info] 1/2 Start inspect. 
+[2019-10-10 10:25:44.433395][thread 1376][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:44.434384][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.438475][thread 6736][info] 1/2 End inspect. 
+[2019-10-10 10:25:44.441658][thread 5028][info] PCS 8/126 Start.
+[2019-10-10 10:25:44.442634][thread 6736][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:44.444044][thread 5028][info] PCS 8/126 End.
+[2019-10-10 10:25:44.446229][thread 6736][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:44.448378][thread 1376][info] 1/2 Start inspect. 
+[2019-10-10 10:25:44.467118][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.467309][thread 1376][info] 1/2 End inspect. 
+[2019-10-10 10:25:44.467738][thread 5028][info] PCS 9/126 Start.
+[2019-10-10 10:25:44.467851][thread 5264][info] 1/2 End inspect. 
+[2019-10-10 10:25:44.468657][thread 1376][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:44.473651][thread 5028][info] PCS 9/126 End.
+[2019-10-10 10:25:44.474767][thread 6736][info] 1/2 Start inspect. 
+[2019-10-10 10:25:44.474909][thread 5264][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:44.478744][thread 1376][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:44.479883][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.481096][thread 6736][info] 1/2 End inspect. 
+[2019-10-10 10:25:44.482522][thread 5264][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:44.487388][thread 5028][info] PCS 10/126 Start.
+[2019-10-10 10:25:44.491898][thread 6736][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:44.493803][thread 5028][info] PCS 10/126 End.
+[2019-10-10 10:25:44.494564][thread 6736][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:44.494761][thread 11812][info] 1/2 Start inspect. 
+[2019-10-10 10:25:44.498688][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.504178][thread 5028][info] PCS 11/126 Start.
+[2019-10-10 10:25:44.507005][thread 5028][info] PCS 11/126 End.
+[2019-10-10 10:25:44.507039][thread 1376][info] 1/2 Start inspect. 
+[2019-10-10 10:25:44.508802][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.513665][thread 5028][info] PCS 12/126 Start.
+[2019-10-10 10:25:44.515479][thread 5028][info] PCS 12/126 End.
+[2019-10-10 10:25:44.519959][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.526757][thread 6736][info] 1/2 Start inspect. 
+[2019-10-10 10:25:44.526802][thread 5028][info] PCS 13/126 Start.
+[2019-10-10 10:25:44.530090][thread 5028][info] PCS 13/126 End.
+[2019-10-10 10:25:44.532903][thread 5264][info] 1/2 Start inspect. 
+[2019-10-10 10:25:44.532985][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.537663][thread 5028][info] PCS 14/126 Start.
+[2019-10-10 10:25:44.533700][thread 5264][info] 1/2 End inspect. 
+[2019-10-10 10:25:44.541018][thread 5028][info] PCS 14/126 End.
+[2019-10-10 10:25:44.541321][thread 5264][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:44.543007][thread 5264][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:44.545194][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.548939][thread 5028][info] PCS 15/126 Start.
+[2019-10-10 10:25:44.552723][thread 5264][info] 1/2 Start inspect. 
+[2019-10-10 10:25:44.555365][thread 5028][info] PCS 15/126 End.
+[2019-10-10 10:25:44.559240][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.562517][thread 5028][info] PCS 16/126 Start.
+[2019-10-10 10:25:44.564144][thread 5028][info] PCS 16/126 End.
+[2019-10-10 10:25:44.566252][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.566404][thread 5264][info] 1/2 End inspect. 
+[2019-10-10 10:25:44.572880][thread 5028][info] PCS 17/126 Start.
+[2019-10-10 10:25:44.576070][thread 5264][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:44.578795][thread 5028][info] PCS 17/126 End.
+[2019-10-10 10:25:44.580796][thread 5264][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:44.583739][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.589596][thread 5028][info] PCS 18/126 Start.
+[2019-10-10 10:25:44.593952][thread 5264][info] 1/2 Start inspect. 
+[2019-10-10 10:25:44.594033][thread 5028][info] PCS 18/126 End.
+[2019-10-10 10:25:44.595792][thread 5264][info] 1/2 End inspect. 
+[2019-10-10 10:25:44.599635][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.600424][thread 5264][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:44.602119][thread 5264][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:44.607945][thread 5028][info] PCS 19/126 Start.
+[2019-10-10 10:25:44.614560][thread 5028][info] PCS 19/126 End.
+[2019-10-10 10:25:44.614745][thread 5264][info] 1/2 Start inspect. 
+[2019-10-10 10:25:44.616784][thread 5264][info] 1/2 End inspect. 
+[2019-10-10 10:25:44.616050][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.620495][thread 5264][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:44.623062][thread 5028][info] PCS 20/126 Start.
+[2019-10-10 10:25:44.623258][thread 5264][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:44.633558][thread 5028][info] PCS 20/126 End.
+[2019-10-10 10:25:44.636050][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.643517][thread 5028][info] PCS 21/126 Start.
+[2019-10-10 10:25:44.645169][thread 5264][info] 1/2 Start inspect. 
+[2019-10-10 10:25:44.646096][thread 5028][info] PCS 21/126 End.
+[2019-10-10 10:25:44.649480][thread 5264][info] 1/2 End inspect. 
+[2019-10-10 10:25:44.649874][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.650731][thread 5264][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:44.655771][thread 5264][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:44.657016][thread 5028][info] PCS 22/126 Start.
+[2019-10-10 10:25:44.667079][thread 5264][info] 1/2 Start inspect. 
+[2019-10-10 10:25:44.667793][thread 5028][info] PCS 22/126 End.
+[2019-10-10 10:25:44.667858][thread 5264][info] 1/2 End inspect. 
+[2019-10-10 10:25:44.671661][thread 5264][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:44.671795][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.672514][thread 5264][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:44.679608][thread 5028][info] PCS 23/126 Start.
+[2019-10-10 10:25:44.684073][thread 5264][info] 1/2 Start inspect. 
+[2019-10-10 10:25:44.702903][thread 5028][info] PCS 23/126 End.
+[2019-10-10 10:25:44.715335][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.720376][thread 5028][info] PCS 24/126 Start.
+[2019-10-10 10:25:44.735075][thread 5028][info] PCS 24/126 End.
+[2019-10-10 10:25:44.740299][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.743496][thread 5028][info] PCS 25/126 Start.
+[2019-10-10 10:25:44.751807][thread 5028][info] PCS 25/126 End.
+[2019-10-10 10:25:44.753059][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.768841][thread 5028][info] PCS 26/126 Start.
+[2019-10-10 10:25:44.772149][thread 5028][info] PCS 26/126 End.
+[2019-10-10 10:25:44.775839][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.779013][thread 5028][info] PCS 27/126 Start.
+[2019-10-10 10:25:44.781847][thread 5028][info] PCS 27/126 End.
+[2019-10-10 10:25:44.786041][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.790913][thread 5028][info] PCS 28/126 Start.
+[2019-10-10 10:25:44.811157][thread 5028][info] PCS 28/126 End.
+[2019-10-10 10:25:44.817773][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.820270][thread 5028][info] PCS 29/126 Start.
+[2019-10-10 10:25:44.820841][thread 5028][info] PCS 29/126 End.
+[2019-10-10 10:25:44.836954][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.841355][thread 5028][info] PCS 30/126 Start.
+[2019-10-10 10:25:44.847142][thread 5028][info] PCS 30/126 End.
+[2019-10-10 10:25:44.853732][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.870549][thread 5028][info] PCS 31/126 Start.
+[2019-10-10 10:25:44.875562][thread 5028][info] PCS 31/126 End.
+[2019-10-10 10:25:44.878800][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.881695][thread 5028][info] PCS 32/126 Start.
+[2019-10-10 10:25:44.885304][thread 5028][info] PCS 32/126 End.
+[2019-10-10 10:25:44.891788][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.893253][thread 5028][info] PCS 33/126 Start.
+[2019-10-10 10:25:44.900553][thread 5028][info] PCS 33/126 End.
+[2019-10-10 10:25:44.902673][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.904910][thread 5028][info] PCS 34/126 Start.
+[2019-10-10 10:25:44.908951][thread 5028][info] PCS 34/126 End.
+[2019-10-10 10:25:44.909430][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.915004][thread 5028][info] PCS 35/126 Start.
+[2019-10-10 10:25:44.917691][thread 5028][info] PCS 35/126 End.
+[2019-10-10 10:25:44.921083][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.921755][thread 5028][info] PCS 36/126 Start.
+[2019-10-10 10:25:44.922808][thread 5028][info] PCS 36/126 End.
+[2019-10-10 10:25:44.933418][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.940610][thread 5028][info] PCS 37/126 Start.
+[2019-10-10 10:25:44.945729][thread 5028][info] PCS 37/126 End.
+[2019-10-10 10:25:44.948322][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.951177][thread 5028][info] PCS 38/126 Start.
+[2019-10-10 10:25:44.960070][thread 5028][info] PCS 38/126 End.
+[2019-10-10 10:25:44.960693][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.965718][thread 5028][info] PCS 39/126 Start.
+[2019-10-10 10:25:44.966641][thread 5028][info] PCS 39/126 End.
+[2019-10-10 10:25:44.972954][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.974453][thread 5028][info] PCS 40/126 Start.
+[2019-10-10 10:25:44.982606][thread 5028][info] PCS 40/126 End.
+[2019-10-10 10:25:44.989649][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:44.991665][thread 5028][info] PCS 41/126 Start.
+[2019-10-10 10:25:45.002577][thread 5028][info] PCS 41/126 End.
+[2019-10-10 10:25:45.007964][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.011959][thread 5028][info] PCS 42/126 Start.
+[2019-10-10 10:25:45.016866][thread 5028][info] PCS 42/126 End.
+[2019-10-10 10:25:45.017770][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.021923][thread 5028][info] PCS 43/126 Start.
+[2019-10-10 10:25:45.023049][thread 5028][info] PCS 43/126 End.
+[2019-10-10 10:25:45.025751][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.026683][thread 5028][info] PCS 44/126 Start.
+[2019-10-10 10:25:45.029735][thread 5028][info] PCS 44/126 End.
+[2019-10-10 10:25:45.031402][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.031852][thread 5028][info] PCS 45/126 Start.
+[2019-10-10 10:25:45.038741][thread 5028][info] PCS 45/126 End.
+[2019-10-10 10:25:45.040343][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.043286][thread 5028][info] PCS 46/126 Start.
+[2019-10-10 10:25:45.044480][thread 5028][info] PCS 46/126 End.
+[2019-10-10 10:25:45.046015][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.046915][thread 5028][info] PCS 47/126 Start.
+[2019-10-10 10:25:45.050373][thread 5028][info] PCS 47/126 End.
+[2019-10-10 10:25:45.054096][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.058368][thread 5028][info] PCS 48/126 Start.
+[2019-10-10 10:25:45.059335][thread 5028][info] PCS 48/126 End.
+[2019-10-10 10:25:45.064064][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.065357][thread 5028][info] PCS 49/126 Start.
+[2019-10-10 10:25:45.069051][thread 5028][info] PCS 49/126 End.
+[2019-10-10 10:25:45.071569][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.077381][thread 5028][info] PCS 50/126 Start.
+[2019-10-10 10:25:45.078633][thread 5028][info] PCS 50/126 End.
+[2019-10-10 10:25:45.080585][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.082086][thread 5028][info] PCS 51/126 Start.
+[2019-10-10 10:25:45.084510][thread 5028][info] PCS 51/126 End.
+[2019-10-10 10:25:45.087336][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.089425][thread 5028][info] PCS 52/126 Start.
+[2019-10-10 10:25:45.091401][thread 5028][info] PCS 52/126 End.
+[2019-10-10 10:25:45.096189][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.098160][thread 5028][info] PCS 53/126 Start.
+[2019-10-10 10:25:45.100516][thread 5028][info] PCS 53/126 End.
+[2019-10-10 10:25:45.101574][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.102459][thread 5028][info] PCS 54/126 Start.
+[2019-10-10 10:25:45.103138][thread 5028][info] PCS 54/126 End.
+[2019-10-10 10:25:45.105230][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.106300][thread 5028][info] PCS 55/126 Start.
+[2019-10-10 10:25:45.112046][thread 5028][info] PCS 55/126 End.
+[2019-10-10 10:25:45.119386][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.119886][thread 5028][info] PCS 56/126 Start.
+[2019-10-10 10:25:45.120826][thread 5028][info] PCS 56/126 End.
+[2019-10-10 10:25:45.125997][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.127200][thread 5028][info] PCS 57/126 Start.
+[2019-10-10 10:25:45.128332][thread 5028][info] PCS 57/126 End.
+[2019-10-10 10:25:45.129091][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.130007][thread 5028][info] PCS 58/126 Start.
+[2019-10-10 10:25:45.130997][thread 5028][info] PCS 58/126 End.
+[2019-10-10 10:25:45.132974][thread 15336][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.134147][thread 15336][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.133643][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.138570][thread 15336][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.139428][thread 5028][info] PCS 59/126 Start.
+[2019-10-10 10:25:45.141348][thread 5028][info] PCS 59/126 End.
+[2019-10-10 10:25:45.142135][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.143021][thread 5028][info] PCS 60/126 Start.
+[2019-10-10 10:25:45.143921][thread 15336][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.144193][thread 5028][info] PCS 60/126 End.
+[2019-10-10 10:25:45.147942][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.149962][thread 2152][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.151345][thread 2152][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.154997][thread 2152][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.151472][thread 5028][info] PCS 61/126 Start.
+[2019-10-10 10:25:45.159819][thread 2152][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.161068][thread 5028][info] PCS 61/126 End.
+[2019-10-10 10:25:45.164084][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.165201][thread 5028][info] PCS 62/126 Start.
+[2019-10-10 10:25:45.165850][thread 5028][info] PCS 62/126 End.
+[2019-10-10 10:25:45.166560][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.171482][thread 5028][info] PCS 63/126 Start.
+[2019-10-10 10:25:45.173286][thread 5028][info] PCS 63/126 End.
+[2019-10-10 10:25:45.178525][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.179392][thread 5028][info] PCS 64/126 Start.
+[2019-10-10 10:25:45.181160][thread 5028][info] PCS 64/126 End.
+[2019-10-10 10:25:45.182037][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.186023][thread 5028][info] PCS 65/126 Start.
+[2019-10-10 10:25:45.189554][thread 5028][info] PCS 65/126 End.
+[2019-10-10 10:25:45.190274][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.191510][thread 5028][info] PCS 66/126 Start.
+[2019-10-10 10:25:45.192475][thread 5028][info] PCS 66/126 End.
+[2019-10-10 10:25:45.193195][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.197886][thread 5028][info] PCS 67/126 Start.
+[2019-10-10 10:25:45.200508][thread 5028][info] PCS 67/126 End.
+[2019-10-10 10:25:45.201472][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.204044][thread 5028][info] PCS 68/126 Start.
+[2019-10-10 10:25:45.205374][thread 5028][info] PCS 68/126 End.
+[2019-10-10 10:25:45.206827][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.212007][thread 5028][info] PCS 69/126 Start.
+[2019-10-10 10:25:45.217627][thread 5028][info] PCS 69/126 End.
+[2019-10-10 10:25:45.222879][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.225739][thread 5028][info] PCS 70/126 Start.
+[2019-10-10 10:25:45.228233][thread 5028][info] PCS 70/126 End.
+[2019-10-10 10:25:45.229154][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.232884][thread 5028][info] PCS 71/126 Start.
+[2019-10-10 10:25:45.234361][thread 5028][info] PCS 71/126 End.
+[2019-10-10 10:25:45.236236][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.239003][thread 5028][info] PCS 72/126 Start.
+[2019-10-10 10:25:45.240578][thread 5028][info] PCS 72/126 End.
+[2019-10-10 10:25:45.241337][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.242176][thread 5028][info] PCS 73/126 Start.
+[2019-10-10 10:25:45.243027][thread 5028][info] PCS 73/126 End.
+[2019-10-10 10:25:45.245446][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.246497][thread 5028][info] PCS 74/126 Start.
+[2019-10-10 10:25:45.250979][thread 5028][info] PCS 74/126 End.
+[2019-10-10 10:25:45.257702][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.258946][thread 5028][info] PCS 75/126 Start.
+[2019-10-10 10:25:45.262678][thread 5028][info] PCS 75/126 End.
+[2019-10-10 10:25:45.263528][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.263998][thread 5028][info] PCS 76/126 Start.
+[2019-10-10 10:25:45.265128][thread 5028][info] PCS 76/126 End.
+[2019-10-10 10:25:45.265665][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.269836][thread 5028][info] PCS 77/126 Start.
+[2019-10-10 10:25:45.270370][thread 5028][info] PCS 77/126 End.
+[2019-10-10 10:25:45.272117][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.276189][thread 5028][info] PCS 78/126 Start.
+[2019-10-10 10:25:45.281429][thread 5028][info] PCS 78/126 End.
+[2019-10-10 10:25:45.285200][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.286894][thread 5028][info] PCS 79/126 Start.
+[2019-10-10 10:25:45.287372][thread 5028][info] PCS 79/126 End.
+[2019-10-10 10:25:45.288745][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.290276][thread 5028][info] PCS 80/126 Start.
+[2019-10-10 10:25:45.291874][thread 5028][info] PCS 80/126 End.
+[2019-10-10 10:25:45.295754][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.296657][thread 5028][info] PCS 81/126 Start.
+[2019-10-10 10:25:45.302385][thread 5028][info] PCS 81/126 End.
+[2019-10-10 10:25:45.306864][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.311058][thread 5028][info] PCS 82/126 Start.
+[2019-10-10 10:25:45.312070][thread 5028][info] PCS 82/126 End.
+[2019-10-10 10:25:45.315792][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.317987][thread 5028][info] PCS 83/126 Start.
+[2019-10-10 10:25:45.319130][thread 8116][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.319507][thread 5028][info] PCS 83/126 End.
+[2019-10-10 10:25:45.322774][thread 8116][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.325824][thread 8116][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.325855][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.329366][thread 1376][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.331202][thread 1376][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.332622][thread 8116][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.334684][thread 1376][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.335208][thread 5028][info] PCS 84/126 Start.
+[2019-10-10 10:25:45.339198][thread 8116][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.344589][thread 8116][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.348033][thread 8116][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.348277][thread 5028][info] PCS 84/126 End.
+[2019-10-10 10:25:45.348312][thread 1376][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.350672][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.350841][thread 6736][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.351774][thread 8116][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.358608][thread 6736][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.360267][thread 6736][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.359434][thread 8116][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.359343][thread 5028][info] PCS 85/126 Start.
+[2019-10-10 10:25:45.361341][thread 1376][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.361919][thread 8116][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.362863][thread 5028][info] PCS 85/126 End.
+[2019-10-10 10:25:45.363741][thread 1376][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.363749][thread 6736][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.366896][thread 8116][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.370904][thread 1376][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.371051][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.372310][thread 6736][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.375982][thread 5028][info] PCS 86/126 Start.
+[2019-10-10 10:25:45.380623][thread 5028][info] PCS 86/126 End.
+[2019-10-10 10:25:45.379400][thread 6736][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.379475][thread 8116][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.376001][thread 1376][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.383139][thread 6736][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.383223][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.386777][thread 8116][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.387486][thread 1376][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.394652][thread 5028][info] PCS 87/126 Start.
+[2019-10-10 10:25:45.394819][thread 8116][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.395659][thread 1376][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.396094][thread 6736][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.396601][thread 5028][info] PCS 87/126 End.
+[2019-10-10 10:25:45.397322][thread 8116][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.398166][thread 1376][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.404215][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.408384][thread 8116][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.410896][thread 5028][info] PCS 88/126 Start.
+[2019-10-10 10:25:45.412112][thread 1376][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.415337][thread 5028][info] PCS 88/126 End.
+[2019-10-10 10:25:45.418959][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.420070][thread 5028][info] PCS 89/126 Start.
+[2019-10-10 10:25:45.428956][thread 5028][info] PCS 89/126 End.
+[2019-10-10 10:25:45.430396][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.437714][thread 5264][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.438111][thread 5028][info] PCS 90/126 Start.
+[2019-10-10 10:25:45.438388][thread 5264][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.445896][thread 5028][info] PCS 90/126 End.
+[2019-10-10 10:25:45.446594][thread 5264][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.455961][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.458668][thread 5028][info] PCS 91/126 Start.
+[2019-10-10 10:25:45.460714][thread 5264][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.460737][thread 5028][info] PCS 91/126 End.
+[2019-10-10 10:25:45.464668][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.462048][thread 5264][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.466555][thread 5028][info] PCS 92/126 Start.
+[2019-10-10 10:25:45.467293][thread 5264][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.468692][thread 5028][info] PCS 92/126 End.
+[2019-10-10 10:25:45.469828][thread 5264][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.479823][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.482600][thread 5028][info] PCS 93/126 Start.
+[2019-10-10 10:25:45.488217][thread 5028][info] PCS 93/126 End.
+[2019-10-10 10:25:45.491885][thread 5264][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.494651][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.496567][thread 5028][info] PCS 94/126 Start.
+[2019-10-10 10:25:45.499357][thread 5028][info] PCS 94/126 End.
+[2019-10-10 10:25:45.501228][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.507481][thread 5028][info] PCS 95/126 Start.
+[2019-10-10 10:25:45.508465][thread 11812][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.509315][thread 5264][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.509668][thread 5028][info] PCS 95/126 End.
+[2019-10-10 10:25:45.510460][thread 11812][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.513792][thread 5264][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.517948][thread 11812][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.518882][thread 5264][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.520950][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.525248][thread 11812][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.526813][thread 5028][info] PCS 96/126 Start.
+[2019-10-10 10:25:45.527362][thread 11812][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.528192][thread 5264][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.528515][thread 5028][info] PCS 96/126 End.
+[2019-10-10 10:25:45.529709][thread 11812][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.531464][thread 5264][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.534152][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.535084][thread 11812][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.538428][thread 5264][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.539586][thread 5028][info] PCS 97/126 Start.
+[2019-10-10 10:25:45.541290][thread 5264][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.542349][thread 5028][info] PCS 97/126 End.
+[2019-10-10 10:25:45.543995][thread 11812][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.548930][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.551682][thread 11812][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.552706][thread 5028][info] PCS 98/126 Start.
+[2019-10-10 10:25:45.553125][thread 5264][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.554911][thread 5264][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.554112][thread 5028][info] PCS 98/126 End.
+[2019-10-10 10:25:45.553413][thread 11812][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.559556][thread 5264][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.560912][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.563915][thread 11812][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.564839][thread 5264][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.565948][thread 5028][info] PCS 99/126 Start.
+[2019-10-10 10:25:45.568768][thread 5028][info] PCS 99/126 End.
+[2019-10-10 10:25:45.569651][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.570521][thread 5264][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.570534][thread 11812][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.570752][thread 5028][info] PCS 100/126 Start.
+[2019-10-10 10:25:45.584441][thread 5028][info] PCS 100/126 End.
+[2019-10-10 10:25:45.587099][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.588341][thread 5028][info] PCS 101/126 Start.
+[2019-10-10 10:25:45.591992][thread 5028][info] PCS 101/126 End.
+[2019-10-10 10:25:45.606067][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.611317][thread 5028][info] PCS 102/126 Start.
+[2019-10-10 10:25:45.613748][thread 5028][info] PCS 102/126 End.
+[2019-10-10 10:25:45.619976][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.625581][thread 5028][info] PCS 103/126 Start.
+[2019-10-10 10:25:45.638504][thread 5028][info] PCS 103/126 End.
+[2019-10-10 10:25:45.646229][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.647274][thread 5028][info] PCS 104/126 Start.
+[2019-10-10 10:25:45.651427][thread 5028][info] PCS 104/126 End.
+[2019-10-10 10:25:45.653437][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.655604][thread 5028][info] PCS 105/126 Start.
+[2019-10-10 10:25:45.657528][thread 5028][info] PCS 105/126 End.
+[2019-10-10 10:25:45.662942][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.667587][thread 5028][info] PCS 106/126 Start.
+[2019-10-10 10:25:45.684887][thread 5028][info] PCS 106/126 End.
+[2019-10-10 10:25:45.686878][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.688890][thread 5028][info] PCS 107/126 Start.
+[2019-10-10 10:25:45.695649][thread 5028][info] PCS 107/126 End.
+[2019-10-10 10:25:45.696216][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.699359][thread 5028][info] PCS 108/126 Start.
+[2019-10-10 10:25:45.700696][thread 5028][info] PCS 108/126 End.
+[2019-10-10 10:25:45.701432][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.702228][thread 5028][info] PCS 109/126 Start.
+[2019-10-10 10:25:45.703877][thread 5028][info] PCS 109/126 End.
+[2019-10-10 10:25:45.708710][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.709364][thread 5028][info] PCS 110/126 Start.
+[2019-10-10 10:25:45.718826][thread 5028][info] PCS 110/126 End.
+[2019-10-10 10:25:45.720757][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.726998][thread 5028][info] PCS 111/126 Start.
+[2019-10-10 10:25:45.749317][thread 5028][info] PCS 111/126 End.
+[2019-10-10 10:25:45.754537][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.761442][thread 5028][info] PCS 112/126 Start.
+[2019-10-10 10:25:45.762589][thread 5028][info] PCS 112/126 End.
+[2019-10-10 10:25:45.766000][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.770550][thread 5028][info] PCS 113/126 Start.
+[2019-10-10 10:25:45.775609][thread 5028][info] PCS 113/126 End.
+[2019-10-10 10:25:45.779381][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.781583][thread 5028][info] PCS 114/126 Start.
+[2019-10-10 10:25:45.785748][thread 5028][info] PCS 114/126 End.
+[2019-10-10 10:25:45.792798][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.793232][thread 5028][info] PCS 115/126 Start.
+[2019-10-10 10:25:45.794719][thread 5028][info] PCS 115/126 End.
+[2019-10-10 10:25:45.797803][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.801005][thread 5028][info] PCS 116/126 Start.
+[2019-10-10 10:25:45.801768][thread 5028][info] PCS 116/126 End.
+[2019-10-10 10:25:45.807518][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.808509][thread 5028][info] PCS 117/126 Start.
+[2019-10-10 10:25:45.819706][thread 5028][info] PCS 117/126 End.
+[2019-10-10 10:25:45.820698][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.826770][thread 5028][info] PCS 118/126 Start.
+[2019-10-10 10:25:45.827599][thread 5028][info] PCS 118/126 End.
+[2019-10-10 10:25:45.831692][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.836677][thread 5028][info] PCS 119/126 Start.
+[2019-10-10 10:25:45.843048][thread 5028][info] PCS 119/126 End.
+[2019-10-10 10:25:45.845075][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.845584][thread 5028][info] PCS 120/126 Start.
+[2019-10-10 10:25:45.853858][thread 5028][info] PCS 120/126 End.
+[2019-10-10 10:25:45.856746][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.861741][thread 5028][info] PCS 121/126 Start.
+[2019-10-10 10:25:45.865320][thread 5028][info] PCS 121/126 End.
+[2019-10-10 10:25:45.866566][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.872167][thread 5028][info] PCS 122/126 Start.
+[2019-10-10 10:25:45.873025][thread 5028][info] PCS 122/126 End.
+[2019-10-10 10:25:45.873666][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.879402][thread 5028][info] PCS 123/126 Start.
+[2019-10-10 10:25:45.882912][thread 5028][info] PCS 123/126 End.
+[2019-10-10 10:25:45.888406][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.895863][thread 15336][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.897716][thread 15336][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.898846][thread 5028][info] PCS 124/126 Start.
+[2019-10-10 10:25:45.899864][thread 15336][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.911948][thread 5028][info] PCS 124/126 End.
+[2019-10-10 10:25:45.918053][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.918092][thread 15336][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.918582][thread 5028][info] PCS 125/126 Start.
+[2019-10-10 10:25:45.926564][thread 5028][info] PCS 125/126 End.
+[2019-10-10 10:25:45.927593][thread 2152][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.930197][thread 5028][info] Mulit Thread Mode.
+[2019-10-10 10:25:45.931031][thread 2152][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.932788][thread 2152][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.933227][thread 5028][info] PCS 126/126 Start.
+[2019-10-10 10:25:45.938258][thread 5028][info] PCS 126/126 End.
+[2019-10-10 10:25:45.938764][thread 2152][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.942810][thread 2152][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.943693][thread 2152][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.944685][thread 2152][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.949928][thread 2152][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.959531][thread 2152][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.960803][thread 2152][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.961327][thread 2152][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.969937][thread 2152][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.973232][thread 2152][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.975423][thread 2152][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.976393][thread 2152][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:45.981937][thread 2152][info] 1/2 Start inspect. 
+[2019-10-10 10:25:45.986576][thread 2152][info] 1/2 End inspect. 
+[2019-10-10 10:25:45.987504][thread 2152][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:45.992650][thread 2152][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:46.000928][thread 2152][info] 1/2 Start inspect. 
+[2019-10-10 10:25:46.001579][thread 2152][info] 1/2 End inspect. 
+[2019-10-10 10:25:46.002467][thread 2152][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:46.008358][thread 2152][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:46.016182][thread 2152][info] 1/2 Start inspect. 
+[2019-10-10 10:25:46.020279][thread 2152][info] 1/2 End inspect. 
+[2019-10-10 10:25:46.021346][thread 2152][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:46.027034][thread 2152][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:46.032718][thread 2152][info] 1/2 Start inspect. 
+[2019-10-10 10:25:46.051355][thread 8116][info] 1/2 End inspect. 
+[2019-10-10 10:25:46.051818][thread 8116][info] 2/2 Start Defects Collect. 
+[2019-10-10 10:25:46.052734][thread 8116][info] 2/2 End Defects Collect. 
+[2019-10-10 10:25:46.061769][thread 8116][info] 1/2 Start inspect. 

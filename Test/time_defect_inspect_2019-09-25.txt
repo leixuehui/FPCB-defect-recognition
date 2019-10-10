@@ -1,0 +1,70 @@
+==================第0组正面检测时间测试
+  Inspector::process(1/3)1 输入检查             108             108             108
+  Inspector::process(1/3)2 图像定位           10394           10286           10286
+==================第0组正面检测时间测试
+  Inspector::process(1/3)1 输入检查               3               3               3
+  Inspector::process(1/3)2 图像定位           10205           10201           10201
+==================第0组正面检测时间测试
+  Inspector::process(1/3)1 输入检查               6               6               6
+  Inspector::process(1/3)2 图像定位           10348           10341           10341
+==================第0组正面检测时间测试
+  Inspector::process(1/3)1 输入检查               3               3               3
+  Inspector::process(1/3)2 图像定位           10774           10771           10771
+  Inspector::process(1/3)3 缺陷检测           19937            9163            9163
+  Inspector::process(1/3)4 数据打包           19947               9               9
+  Inspector::process(1/3)5 数据整理           19947               0               0
+APIFPCBInspector::api_process              20045           20045
+
+  Inspector::process(2/3)1 输入检查               4               4               7
+  Inspector::process(2/3)2 图像定位           20581           20576           31347
+  Inspector::process(2/3)3 缺陷检测           29980            9398           18561
+  Inspector::process(2/3)4 数据打包           29988               7              16
+  Inspector::process(2/3)5 数据整理           29988               0               0
+APIFPCBInspector::api_process              30080           50125
+
+  Inspector::process(3/3)1 输入检查               5               5              12
+  Inspector::process(3/3)2 图像定位            4285            4279           35626
+  Inspector::process(3/3)3 缺陷检测           10085            5800           24361
+  Inspector::process(3/3)4 数据打包           10092               7              23
+  Inspector::process(3/3)5 数据整理           16780            6687            6687
+APIFPCBInspector::api_process              16944           67069
+
+==================
+
+==================第0组正面检测时间测试
+  Inspector::process(1/3)1 输入检查               5               5               5
+  Inspector::process(1/3)2 图像定位           10731           10726           10726
+  Inspector::process(1/3)3 缺陷检测           13715            2983            2983
+  Inspector::process(1/3)4 数据打包           13721               6               6
+  Inspector::process(1/3)5 数据整理           13721               0               0
+APIFPCBInspector::api_process              13782           13782
+
+  Inspector::process(2/3)1 输入检查               5               5              10
+  Inspector::process(2/3)2 图像定位            9113            9107           19833
+  Inspector::process(2/3)3 缺陷检测           11923            2809            5792
+  Inspector::process(2/3)4 数据打包           11928               5              11
+  Inspector::process(2/3)5 数据整理           11928               0               0
+APIFPCBInspector::api_process              11991           25773
+
+  Inspector::process(3/3)1 输入检查               7               7              17
+  Inspector::process(3/3)2 图像定位            3165            3158           22991
+  Inspector::process(3/3)3 缺陷检测            4677            1511            7303
+  Inspector::process(3/3)4 数据打包            4682               4              15
+==================第0组正面检测时间测试
+  Inspector::process(1/3)1 输入检查               8               8               8
+  Inspector::process(1/3)2 图像定位           10627           10618           10618
+  Inspector::process(1/3)3 缺陷检测           13397            2770            2770
+==================第0组正面检测时间测试
+  Inspector::process(1/3)1 输入检查               5               5               5
+  Inspector::process(1/3)2 图像定位           10193           10188           10188
+  Inspector::process(1/3)3 缺陷检测           11542            1349            1349
+==================第0组正面检测时间测试
+  Inspector::process(1/3)1 输入检查               2               2               2
+  Inspector::process(1/3)2 图像定位           10835           10833           10833
+==================第0组正面检测时间测试
+  Inspector::process(1/3)1 输入检查               5               5               5
+  Inspector::process(1/3)2 图像定位           10958           10953           10953
+==================第0组正面检测时间测试
+  Inspector::process(1/3)1 输入检查               3               3               3
+  Inspector::process(1/3)2 图像定位           10850           10847           10847
+  Inspector::process(1/3)3 缺陷检测           12798            1948            1948

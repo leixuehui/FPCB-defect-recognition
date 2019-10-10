@@ -1,0 +1,168 @@
+[2019-09-19 10:04:53.231325][thread 22716][info] A201 Defect Inspect Logger.
+[2019-09-19 10:04:53.233196][thread 22716][info] Current File: detectBase.cpp Compile Time: Thu Sep 19 10:03:45 2019
+[2019-09-19 10:04:53.233358][thread 22716][info] ========APIFPCBInspector::api_init========
+[2019-09-19 10:04:53.342863][thread 22716][info] Current File: fpcbInspector.cpp Compile Time:Wed Sep 18 15:56:40 2019
+[2019-09-19 10:04:53.343867][thread 22716][info] Current Mode: RELEASE: 1
+[2019-09-19 10:05:15.298676][thread 22716][info] Function_Alg:APIFPCBInspector::api_init		 Return: 0 
+[2019-09-19 10:05:28.707615][thread 22716][info] ========APIFPCBInspector::api_learn========
+[2019-09-19 10:05:28.708663][thread 22716][info] ========Inspector::learn========
+[2019-09-19 10:05:28.709778][thread 22716][info] 1 输入检查 2 图像定位分割 3 参数训练/整理 4 参数保存 
+[2019-09-19 10:05:28.710511][thread 22716][info] ********1/4 输入检查 (0/3)********
+[2019-09-19 10:05:28.713763][thread 22716][info] ********2/4 图像定位分割 (0/3)********
+[2019-09-19 10:05:39.437131][thread 22716][info] *********3/4 参数训练/整理 (0/3)********
+[2019-09-19 10:05:39.437852][thread 22716][info] 3.1 参数训练
+[2019-09-19 10:10:33.453149][thread 212][info] A201 Defect Inspect Logger.
+[2019-09-19 10:10:33.454054][thread 212][info] Current File: detectBase.cpp Compile Time: Thu Sep 19 10:10:15 2019
+[2019-09-19 10:10:33.454677][thread 212][info] ========APIFPCBInspector::api_init========
+[2019-09-19 10:10:33.563360][thread 212][info] Current File: fpcbInspector.cpp Compile Time:Wed Sep 18 15:56:40 2019
+[2019-09-19 10:10:33.564266][thread 212][info] Current Mode: RELEASE: 1
+[2019-09-19 10:10:52.756831][thread 212][info] Function_Alg:APIFPCBInspector::api_init		 Return: 0 
+[2019-09-19 10:11:05.423888][thread 212][info] ========APIFPCBInspector::api_learn========
+[2019-09-19 10:11:05.424720][thread 212][info] ========Inspector::learn========
+[2019-09-19 10:11:05.425476][thread 212][info] 1 输入检查 2 图像定位分割 3 参数训练/整理 4 参数保存 
+[2019-09-19 10:11:05.426018][thread 212][info] ********1/4 输入检查 (0/3)********
+[2019-09-19 10:11:05.426330][thread 212][info] ********2/4 图像定位分割 (0/3)********
+[2019-09-19 10:11:15.459922][thread 212][info] *********3/4 参数训练/整理 (0/3)********
+[2019-09-19 10:11:15.460643][thread 212][info] 3.1 参数训练
+[2019-09-19 10:14:36.968552][thread 13652][info] A201 Defect Inspect Logger.
+[2019-09-19 10:14:36.969413][thread 13652][info] Current File: detectBase.cpp Compile Time: Thu Sep 19 10:14:22 2019
+[2019-09-19 10:14:36.969905][thread 13652][info] ========APIFPCBInspector::api_init========
+[2019-09-19 10:14:37.077595][thread 13652][info] Current File: fpcbInspector.cpp Compile Time:Wed Sep 18 15:56:40 2019
+[2019-09-19 10:14:37.078462][thread 13652][info] Current Mode: RELEASE: 1
+[2019-09-19 10:14:56.225284][thread 13652][info] Function_Alg:APIFPCBInspector::api_init		 Return: 0 
+[2019-09-19 10:15:08.841774][thread 13652][info] ========APIFPCBInspector::api_learn========
+[2019-09-19 10:15:08.842391][thread 13652][info] ========Inspector::learn========
+[2019-09-19 10:15:08.843040][thread 13652][info] 1 输入检查 2 图像定位分割 3 参数训练/整理 4 参数保存 
+[2019-09-19 10:15:08.843663][thread 13652][info] ********1/4 输入检查 (0/3)********
+[2019-09-19 10:15:08.844193][thread 13652][info] ********2/4 图像定位分割 (0/3)********
+[2019-09-19 10:15:18.729490][thread 13652][info] *********3/4 参数训练/整理 (0/3)********
+[2019-09-19 10:15:18.730041][thread 13652][info] 3.1 参数训练
+[2019-09-19 10:19:53.709906][thread 17712][info] A201 Defect Inspect Logger.
+[2019-09-19 10:19:53.710728][thread 17712][info] Current File: detectBase.cpp Compile Time: Thu Sep 19 10:14:22 2019
+[2019-09-19 10:19:53.711327][thread 17712][info] ========APIFPCBInspector::api_init========
+[2019-09-19 10:19:53.820289][thread 17712][info] Current File: fpcbInspector.cpp Compile Time:Wed Sep 18 15:56:40 2019
+[2019-09-19 10:19:53.821215][thread 17712][info] Current Mode: RELEASE: 1
+[2019-09-19 10:20:12.986817][thread 17712][info] Function_Alg:APIFPCBInspector::api_init		 Return: 0 
+[2019-09-19 10:20:25.613361][thread 17712][info] ========APIFPCBInspector::api_learn========
+[2019-09-19 10:20:25.614342][thread 17712][info] ========Inspector::learn========
+[2019-09-19 10:20:25.615330][thread 17712][info] 1 输入检查 2 图像定位分割 3 参数训练/整理 4 参数保存 
+[2019-09-19 10:20:25.615999][thread 17712][info] ********1/4 输入检查 (0/3)********
+[2019-09-19 10:20:25.616486][thread 17712][info] ********2/4 图像定位分割 (0/3)********
+[2019-09-19 10:20:35.631137][thread 17712][info] *********3/4 参数训练/整理 (0/3)********
+[2019-09-19 10:20:35.631797][thread 17712][info] 3.1 参数训练
+[2019-09-19 10:21:48.120586][thread 27328][info] A201 Defect Inspect Logger.
+[2019-09-19 10:21:48.121264][thread 27328][info] Current File: detectBase.cpp Compile Time: Thu Sep 19 10:14:22 2019
+[2019-09-19 10:21:48.121422][thread 27328][info] ========APIFPCBInspector::api_init========
+[2019-09-19 10:21:48.230837][thread 27328][info] Current File: fpcbInspector.cpp Compile Time:Wed Sep 18 15:56:40 2019
+[2019-09-19 10:21:48.231415][thread 27328][info] Current Mode: RELEASE: 1
+[2019-09-19 10:22:07.494377][thread 27328][info] Function_Alg:APIFPCBInspector::api_init		 Return: 0 
+[2019-09-19 10:22:20.074169][thread 27328][info] ========APIFPCBInspector::api_learn========
+[2019-09-19 10:22:20.074658][thread 27328][info] ========Inspector::learn========
+[2019-09-19 10:22:20.075219][thread 27328][info] 1 输入检查 2 图像定位分割 3 参数训练/整理 4 参数保存 
+[2019-09-19 10:22:20.075737][thread 27328][info] ********1/4 输入检查 (0/3)********
+[2019-09-19 10:22:20.076230][thread 27328][info] ********2/4 图像定位分割 (0/3)********
+[2019-09-19 10:22:29.939985][thread 27328][info] *********3/4 参数训练/整理 (0/3)********
+[2019-09-19 10:22:29.940702][thread 27328][info] 3.1 参数训练
+[2019-09-19 10:29:06.620135][thread 21164][info] A201 Defect Inspect Logger.
+[2019-09-19 10:29:06.621073][thread 21164][info] Current File: detectbase.cpp Compile Time: Thu Sep 19 10:14:22 2019
+[2019-09-19 10:29:06.621441][thread 21164][info] ========APIFPCBInspector::api_init========
+[2019-09-19 10:29:06.861268][thread 21164][info] Current File: fpcbinspector.cpp Compile Time:Wed Sep 18 15:56:40 2019
+[2019-09-19 10:29:06.862168][thread 21164][info] Current Mode: DEBUG
+[2019-09-19 10:29:28.831863][thread 21164][info] Function_Alg:APIFPCBInspector::api_init		 Return: 0 
+[2019-09-19 10:29:58.036345][thread 21164][info] ========APIFPCBInspector::api_learn========
+[2019-09-19 10:29:58.037570][thread 21164][info] ========Inspector::learn========
+[2019-09-19 10:29:58.038531][thread 21164][info] 1 输入检查 2 图像定位分割 3 参数训练/整理 4 参数保存 
+[2019-09-19 10:29:58.041061][thread 21164][info] ********1/4 输入检查 (0/3)********
+[2019-09-19 10:29:58.041400][thread 21164][info] ********2/4 图像定位分割 (0/3)********
+[2019-09-19 10:30:08.665298][thread 21164][info] *********3/4 参数训练/整理 (0/3)********
+[2019-09-19 10:30:08.665967][thread 21164][info] 3.1 参数训练
+[2019-09-19 10:47:42.989851][thread 8748][info] A201 Defect Inspect Logger.
+[2019-09-19 10:47:42.990827][thread 8748][info] Current File: detectbase.cpp Compile Time: Thu Sep 19 10:47:09 2019
+[2019-09-19 10:47:42.991510][thread 8748][info] ========APIFPCBInspector::api_init========
+[2019-09-19 10:47:43.228864][thread 8748][info] Current File: fpcbinspector.cpp Compile Time:Wed Sep 18 15:56:40 2019
+[2019-09-19 10:47:43.230091][thread 8748][info] Current Mode: DEBUG
+[2019-09-19 10:48:05.394444][thread 8748][info] Function_Alg:APIFPCBInspector::api_init		 Return: 0 
+[2019-09-19 10:48:35.591447][thread 8748][info] ========APIFPCBInspector::api_learn========
+[2019-09-19 10:48:35.593032][thread 8748][info] ========Inspector::learn========
+[2019-09-19 10:48:35.593977][thread 8748][info] 1 输入检查 2 图像定位分割 3 参数训练/整理 4 参数保存 
+[2019-09-19 10:48:35.594879][thread 8748][info] ********1/4 输入检查 (0/3)********
+[2019-09-19 10:48:35.595371][thread 8748][info] ********2/4 图像定位分割 (0/3)********
+[2019-09-19 10:48:46.059380][thread 8748][info] *********3/4 参数训练/整理 (0/3)********
+[2019-09-19 10:48:46.059937][thread 8748][info] 3.1 参数训练
+[2019-09-19 11:19:59.458286][thread 20804][info] A201 Defect Inspect Logger.
+[2019-09-19 11:19:59.458886][thread 20804][info] Current File: detectBase.cpp Compile Time: Thu Sep 19 11:18:41 2019
+[2019-09-19 11:19:59.459454][thread 20804][info] ========APIFPCBInspector::api_init========
+[2019-09-19 11:19:59.583595][thread 20804][info] Current File: fpcbInspector.cpp Compile Time:Wed Sep 18 15:56:40 2019
+[2019-09-19 11:19:59.584488][thread 20804][info] Current Mode: RELEASE: 1
+[2019-09-19 11:20:19.149793][thread 20804][info] Function_Alg:APIFPCBInspector::api_init		 Return: 0 
+[2019-09-19 11:20:32.002913][thread 20804][info] ========APIFPCBInspector::api_learn========
+[2019-09-19 11:20:32.003927][thread 20804][info] ========Inspector::learn========
+[2019-09-19 11:20:32.004845][thread 20804][info] 1 输入检查 2 图像定位分割 3 参数训练/整理 4 参数保存 
+[2019-09-19 11:20:32.005499][thread 20804][info] ********1/4 输入检查 (0/3)********
+[2019-09-19 11:20:32.006008][thread 20804][info] ********2/4 图像定位分割 (0/3)********
+[2019-09-19 11:20:42.111899][thread 20804][info] *********3/4 参数训练/整理 (0/3)********
+[2019-09-19 11:20:42.113443][thread 20804][info] 3.1 参数训练
+[2019-09-19 11:28:51.976729][thread 5048][info] A201 Defect Inspect Logger.
+[2019-09-19 11:28:51.978302][thread 5048][info] Current File: detectBase.cpp Compile Time: Thu Sep 19 11:28:32 2019
+[2019-09-19 11:28:51.978688][thread 5048][info] ========APIFPCBInspector::api_init========
+[2019-09-19 11:28:52.088444][thread 5048][info] Current File: fpcbInspector.cpp Compile Time:Wed Sep 18 15:56:40 2019
+[2019-09-19 11:28:52.088914][thread 5048][info] Current Mode: RELEASE: 1
+[2019-09-19 11:29:11.442042][thread 5048][info] Function_Alg:APIFPCBInspector::api_init		 Return: 0 
+[2019-09-19 11:29:24.103398][thread 5048][info] ========APIFPCBInspector::api_learn========
+[2019-09-19 11:29:24.104371][thread 5048][info] ========Inspector::learn========
+[2019-09-19 11:29:24.105312][thread 5048][info] 1 输入检查 2 图像定位分割 3 参数训练/整理 4 参数保存 
+[2019-09-19 11:29:24.106006][thread 5048][info] ********1/4 输入检查 (0/3)********
+[2019-09-19 11:29:24.106474][thread 5048][info] ********2/4 图像定位分割 (0/3)********
+[2019-09-19 11:29:34.289190][thread 5048][info] *********3/4 参数训练/整理 (0/3)********
+[2019-09-19 11:29:34.290046][thread 5048][info] 3.1 参数训练
+[2019-09-19 11:33:48.129859][thread 19616][info] A201 Defect Inspect Logger.
+[2019-09-19 11:33:48.130687][thread 19616][info] Current File: detectBase.cpp Compile Time: Thu Sep 19 11:28:32 2019
+[2019-09-19 11:33:48.131122][thread 19616][info] ========APIFPCBInspector::api_init========
+[2019-09-19 11:33:48.238500][thread 19616][info] Current File: fpcbInspector.cpp Compile Time:Wed Sep 18 15:56:40 2019
+[2019-09-19 11:33:48.239037][thread 19616][info] Current Mode: RELEASE: 1
+[2019-09-19 11:34:07.576345][thread 19616][info] Function_Alg:APIFPCBInspector::api_init		 Return: 0 
+[2019-09-19 11:34:20.207923][thread 19616][info] ========APIFPCBInspector::api_learn========
+[2019-09-19 11:34:20.208732][thread 19616][info] ========Inspector::learn========
+[2019-09-19 11:34:20.209721][thread 19616][info] 1 输入检查 2 图像定位分割 3 参数训练/整理 4 参数保存 
+[2019-09-19 11:34:20.211969][thread 19616][info] ********1/4 输入检查 (0/3)********
+[2019-09-19 11:34:20.212939][thread 19616][info] ********2/4 图像定位分割 (0/3)********
+[2019-09-19 11:34:30.105548][thread 19616][info] *********3/4 参数训练/整理 (0/3)********
+[2019-09-19 11:34:30.106059][thread 19616][info] 3.1 参数训练
+[2019-09-19 11:39:53.929692][thread 27496][info] A201 Defect Inspect Logger.
+[2019-09-19 11:39:53.930606][thread 27496][info] Current File: detectBase.cpp Compile Time: Thu Sep 19 11:39:21 2019
+[2019-09-19 11:39:53.931278][thread 27496][info] ========APIFPCBInspector::api_init========
+[2019-09-19 11:39:54.039432][thread 27496][info] Current File: fpcbInspector.cpp Compile Time:Wed Sep 18 15:56:40 2019
+[2019-09-19 11:39:54.040511][thread 27496][info] Current Mode: RELEASE: 1
+[2019-09-19 11:40:13.401622][thread 27496][info] Function_Alg:APIFPCBInspector::api_init		 Return: 0 
+[2019-09-19 11:40:26.022906][thread 27496][info] ========APIFPCBInspector::api_learn========
+[2019-09-19 11:40:26.024077][thread 27496][info] ========Inspector::learn========
+[2019-09-19 11:40:26.024941][thread 27496][info] 1 输入检查 2 图像定位分割 3 参数训练/整理 4 参数保存 
+[2019-09-19 11:40:26.025496][thread 27496][info] ********1/4 输入检查 (0/3)********
+[2019-09-19 11:40:26.025975][thread 27496][info] ********2/4 图像定位分割 (0/3)********
+[2019-09-19 11:40:35.779034][thread 27496][info] *********3/4 参数训练/整理 (0/3)********
+[2019-09-19 11:40:35.779833][thread 27496][info] 3.1 参数训练
+[2019-09-19 11:46:31.473823][thread 27496][info] 3.2 参数加载
+[2019-09-19 11:46:31.861180][thread 27496][info] 参数加载完毕
+[2019-09-19 11:46:31.862132][thread 27496][info] ========参数学习算法完毕 (0/3)========
+[2019-09-19 11:46:31.964613][thread 27496][info] Function_Alg:APIFPCBInspector::api_learn Return: 0 
+[2019-09-19 11:46:31.965779][thread 27496][info] ========APIFPCBInspector::api_learn========
+[2019-09-19 11:46:31.966562][thread 27496][info] ========Inspector::learn========
+[2019-09-19 11:46:31.967229][thread 27496][info] 1 输入检查 2 图像定位分割 3 参数训练/整理 4 参数保存 
+[2019-09-19 11:46:31.967707][thread 27496][info] ********1/4 输入检查 (1/3)********
+[2019-09-19 11:46:31.968167][thread 27496][info] ********2/4 图像定位分割 (1/3)********
+[2019-09-19 11:46:41.055936][thread 27496][info] *********3/4 参数训练/整理 (1/3)********
+[2019-09-19 11:46:41.056471][thread 27496][info] 3.1 参数训练
+[2019-09-19 11:46:41.835456][thread 27496][info] 3.2 参数加载
+[2019-09-19 11:46:42.178961][thread 27496][info] 参数加载完毕
+[2019-09-19 11:46:42.180491][thread 27496][info] ========参数学习算法完毕 (1/3)========
+[2019-09-19 11:46:42.234793][thread 27496][info] Function_Alg:APIFPCBInspector::api_learn Return: 0 
+[2019-09-19 11:46:42.235495][thread 27496][info] ========APIFPCBInspector::api_learn========
+[2019-09-19 11:46:42.236464][thread 27496][info] ========Inspector::learn========
+[2019-09-19 11:46:42.237213][thread 27496][info] 1 输入检查 2 图像定位分割 3 参数训练/整理 4 参数保存 
+[2019-09-19 11:46:42.238400][thread 27496][info] ********1/4 输入检查 (2/3)********
+[2019-09-19 11:46:42.238793][thread 27496][info] ********2/4 图像定位分割 (2/3)********
+[2019-09-19 11:46:45.397233][thread 27496][info] *********3/4 参数训练/整理 (2/3)********
+[2019-09-19 11:46:45.397854][thread 27496][info] 3.1 参数训练
+[2019-09-19 11:46:45.652629][thread 27496][info] 3.2 参数加载
+[2019-09-19 11:46:46.005599][thread 27496][info] 参数加载完毕
+[2019-09-19 11:46:46.006411][thread 27496][info] 3.3 直方图数据整理

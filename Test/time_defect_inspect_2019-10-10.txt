@@ -1,0 +1,4 @@
+========正面检测========
+APIFPCBInspector::api_process                                                2019-10-10  10:25:12:17
+  Inspector::process(1/3)1 输入检查              30              30              30
+  Inspector::process(1/3)2 图像定位           32091           32061           32061
